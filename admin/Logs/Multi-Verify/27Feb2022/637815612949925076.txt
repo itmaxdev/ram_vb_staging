@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"351278280017366",
+"msisdn":"243971553281",
+"primary":true},{
+"imei":"351278280017374",
+"msisdn":"243821075976",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35127828001736  MSISDN : 243971553281  IMSI: 630020983770531","accountResponse":{"imei":"35127828001736","imsi":"630020983770531","msisdn":"243971553281","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"P37 Pro(Vision2 Plus)","imeiQuantitySupport":2}}

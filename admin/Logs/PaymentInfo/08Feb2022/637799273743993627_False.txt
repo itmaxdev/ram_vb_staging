@@ -1,0 +1,1 @@
+https://bcm.ram.cd/bcm-service/billings/history?msisdn=243974649987{"timestamp":"2022-02-08T10:29:14.283+0000","status":401,"error":"Unauthorized","message":"Unauthorized","path":"/bcm-service/billings/history"}-Message:Something Went Wrong

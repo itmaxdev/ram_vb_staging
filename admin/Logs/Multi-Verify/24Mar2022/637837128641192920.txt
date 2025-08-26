@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358780102899296",
+"msisdn":"243810710090",
+"primary":true},{
+"imei":"358781102899294",
+"msisdn":"243998419444",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35878010289929  MSISDN : 243810710090  IMSI: 630010440041209","accountResponse":{"imei":"35878010289929","imsi":"630010440041209","msisdn":"243810710090","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy Note10+","imeiQuantitySupport":2}}

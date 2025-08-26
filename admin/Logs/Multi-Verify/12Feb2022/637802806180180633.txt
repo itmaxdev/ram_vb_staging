@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352659104618142",
+"msisdn":"243900026202",
+"primary":false},{
+"imei":"352659104618159",
+"msisdn":"243998612001",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35265910461815  MSISDN : 243998612001  IMSI: 630020980894150","accountResponse":{"imei":"35265910461815","imsi":"630020980894150","msisdn":"243998612001","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"Pouvoir 3","imeiQuantitySupport":0}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"350100242976664",
+"msisdn":"243903875508",
+"primary":true},{
+"imei":"350100242976672",
+"msisdn":"243819249449",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35010024297666  MSISDN : 243903875508  IMSI: 630900406237109","accountResponse":{"imei":"35010024297666","imsi":"630900406237109","msisdn":"243903875508","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"TECNO SPARK 8","imeiQuantitySupport":3}}

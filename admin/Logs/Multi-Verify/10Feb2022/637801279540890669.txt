@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"864325047659459",
+"msisdn":"243978908269",
+"primary":true},{
+"imei":"864325047659442",
+"msisdn":"2430810328030",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86432504765945  MSISDN : 243978908269  IMSI: 630020981733423","accountResponse":{"imei":"86432504765945","imsi":"630020981733423","msisdn":"243978908269","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"realme","model":"RMX1901","imeiQuantitySupport":2}}

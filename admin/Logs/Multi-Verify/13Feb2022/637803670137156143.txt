@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359273153829569",
+"msisdn":"243815174796",
+"primary":true},{
+"imei":"359273153829577",
+"msisdn":"243904830914",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35927315382956  MSISDN : 243815174796  IMSI: 630010442512206","accountResponse":{"imei":"35927315382956","imsi":"630010442512206","msisdn":"243815174796","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"NOTE 10","imeiQuantitySupport":2}}

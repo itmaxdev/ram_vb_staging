@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355656102659901",
+"msisdn":"243998303525",
+"primary":true},{
+"imei":"355657102659909",
+"msisdn":"243898071760",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35565610265990  MSISDN : 243998303525  IMSI: 630020981541267","accountResponse":{"imei":"35565610265990","imsi":"630020981541267","msisdn":"243998303525","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy M30","imeiQuantitySupport":2}}

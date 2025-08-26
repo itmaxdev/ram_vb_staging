@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356606110530973",
+"msisdn":"243854071100",
+"primary":true},{
+"imei":"356606110530981",
+"msisdn":"243990321515",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35660611053097  MSISDN : 243854071100  IMSI: 630860156276869","accountResponse":{"imei":"35660611053097","imsi":"630860156276869","msisdn":"243854071100","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON15","imeiQuantitySupport":2}}

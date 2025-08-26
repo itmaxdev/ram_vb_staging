@@ -1,0 +1,5 @@
+{
+"imei":"35592069080125",
+"msisdn":"243903204879",
+"statusId":"3",
+"operator":"africell"}{"devices":[{"imei":"35592069080125","imsi":"630900404153212"}],"statusId":"3"}

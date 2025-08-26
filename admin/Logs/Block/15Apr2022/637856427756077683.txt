@@ -1,0 +1,9 @@
+{
+"imei":"356943542248696",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"rachel.mutombo@orange.com 14 avril 2022"}<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>

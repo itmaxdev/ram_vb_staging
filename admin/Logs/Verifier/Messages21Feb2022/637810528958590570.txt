@@ -1,0 +1,1 @@
+https://bcm.ram.cd/bcm-service/devices/details?imei=357161103591227&msisdn=243811790214{"errorCode":614,"errorMessage":"Incorrect result size: expected 1, actual 2","errors":[]}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359753103435971",
+"msisdn":"243826829260",
+"primary":false},{
+"imei":"359754103435979",
+"msisdn":"243974106831",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35975410343597  MSISDN : 243974106831  IMSI: 630020981971488","accountResponse":{"imei":"35975410343597","imsi":"630020981971488","msisdn":"243974106831","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A70s","imeiQuantitySupport":2}}

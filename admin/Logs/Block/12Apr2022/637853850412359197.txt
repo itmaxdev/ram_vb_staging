@@ -1,0 +1,7 @@
+{
+"imei":"35625687537569",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"Olivier.Kande@bensizwe.com 09/04/2022"}{"errorCode":603,"errorMessage":"No record corresponding for the IMEI: 35625687537569","errors":[]}

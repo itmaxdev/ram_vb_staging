@@ -1,0 +1,5 @@
+{
+"imei":"354889103006746",
+"operator":"unknown",
+"msisdn":"243896349197",
+"statusId":"0"}{"errorCode":614,"errorMessage":"JSON parse error: Cannot deserialize value of type `com.bcm.service.services.model.Operator` from String \"unknown\": value not one of declared Enum instance names: [other, airtel, vodacom, orange, africell]; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `com.bcm.service.services.model.Operator` from String \"unknown\": value not one of declared Enum instance names: [other, airtel, vodacom, orange, africell]\n at [Source: (PushbackInputStream); line: 3, column: 12] (through reference chain: com.bcm.service.services.model.DeviceUpdateRequestDTO[\"operator\"])","errors":[]}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353244265292273",
+"msisdn":"243828600000",
+"primary":true},{
+"imei":"353244265292281",
+"msisdn":"243840950000",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35324426529227  MSISDN : 243828600000  IMSI: 630010415358593","accountResponse":{"imei":"35324426529227","imsi":"630010415358593","msisdn":"243828600000","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"NOTE 8i","imeiQuantitySupport":2}}

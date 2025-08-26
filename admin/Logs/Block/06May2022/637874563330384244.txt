@@ -1,0 +1,7 @@
+{
+"imei":"86025405134344",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"Christian K <christian.k@5c-energy-rdc.com> 06/05/2022"}{"devices":[{"imei":"86025405134344","imsi":"630860153008532"}],"statusId":"3"}

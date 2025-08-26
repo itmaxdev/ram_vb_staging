@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"869400042292005",
+"msisdn":"243898138407",
+"primary":false},{
+"imei":"869400043592007",
+"msisdn":"243971291359",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86940004359200  MSISDN : 243971291359  IMSI: 630020977116989","accountResponse":{"imei":"86940004359200","imsi":"630020977116989","msisdn":"243971291359","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Redmi","model":"Redmi Note7 Pro","imeiQuantitySupport":2}}

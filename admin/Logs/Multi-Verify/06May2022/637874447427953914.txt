@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359218098693596",
+"msisdn":"2430828774622",
+"primary":true},{
+"imei":"359219098693594",
+"msisdn":"2430974633482",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35921809869359  MSISDN : 243828774622  IMSI: 630010411601884","accountResponse":{"imei":"35921809869359","imsi":"630010411601884","msisdn":"243828774622","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy J6","imeiQuantitySupport":0}}

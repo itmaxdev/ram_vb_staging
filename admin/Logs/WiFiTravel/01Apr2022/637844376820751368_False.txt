@@ -1,0 +1,2 @@
+https://bcm.ram.cd/bcm-service/wifi-travel{"imei":"358064093321630","msisdn":"243815036050","siteKey":"WF1335"}-Exceptioin:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ram.cd._Default2.ProcessWiFi(String IMEI, String MSISN, Int32 LangID, String sitekey) in D:\repositories\ram\Ram.cd\WiFi\Default.aspx.vb:line 179

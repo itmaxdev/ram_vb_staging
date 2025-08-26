@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353280081063498",
+"msisdn":"2430850632135",
+"primary":true},{
+"imei":"353281081063496",
+"msisdn":"2430991687046",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35328008106349  MSISDN : 243850632135  IMSI: 630860138027332","accountResponse":{"imei":"35328008106349","imsi":"630860138027332","msisdn":"243850632135","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung SM-G5510","imeiQuantitySupport":0}}

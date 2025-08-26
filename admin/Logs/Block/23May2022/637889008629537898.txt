@@ -1,0 +1,7 @@
+{
+"imei":"353098117727260",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"TEST"}{"timestamp":"2022-05-23T07:06:08.352+0000","status":500,"error":"Internal Server Error","message":"JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.","path":"/bcm-service/devices/status"}

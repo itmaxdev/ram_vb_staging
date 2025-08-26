@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352691185817970",
+"msisdn":"243899509906",
+"primary":true},{
+"imei":"353094925817971",
+"msisdn":"243991167337",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35269118581797  MSISDN : 243899509906  IMSI: 630860127683871","accountResponse":{"imei":"35269118581797","imsi":"630860127683871","msisdn":"243899509906","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy M31","imeiQuantitySupport":2}}

@@ -1,0 +1,3 @@
+Exceptioin:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ram.cd.DbRamDataContext..ctor() in C:\Work\RAM TEST\RAM\Ram.cd\DbRam.designer.vb:line 73
+   at Ram.cd.SiteContent.GetContent(String Title, Int32 LanguageID) in C:\Work\RAM TEST\RAM\Ram.cd\Functions\SiteContent.vb:line 9

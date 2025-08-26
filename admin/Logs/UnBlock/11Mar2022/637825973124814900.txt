@@ -1,0 +1,7 @@
+{
+"imei":"355469084424579",
+"operator":"orange",
+"msisdn":"",
+"statusId":"0",
+"user":"erik@euphoria.systems",
+"reason":"ggg"}{"devices":[{"imei":"35546908442457","imsi":"630860157469088"}],"statusId":"0"}

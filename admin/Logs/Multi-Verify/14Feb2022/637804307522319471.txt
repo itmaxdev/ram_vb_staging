@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356352440637366",
+"msisdn":"2430824529125",
+"primary":true},{
+"imei":"356967140637364",
+"msisdn":"2430973852058",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35635244063736  MSISDN : 243824529125  IMSI: 630010445074753","accountResponse":{"imei":"35635244063736","imsi":"630010445074753","msisdn":"243824529125","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy M12","imeiQuantitySupport":2}}

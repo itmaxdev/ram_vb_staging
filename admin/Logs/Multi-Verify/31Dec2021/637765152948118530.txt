@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358358102904323",
+"msisdn":"243998919666",
+"primary":true},{
+"imei":"358359102904321",
+"msisdn":"243819891966",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35835810290432  MSISDN : 243998919666  IMSI: 630020980487801","accountResponse":{"imei":"35835810290432","imsi":"630020980487801","msisdn":"243998919666","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A20","imeiQuantitySupport":2}}

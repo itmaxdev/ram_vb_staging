@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"868717030904650",
+"msisdn":"243993480392",
+"primary":true},{
+"imei":"868717030904643",
+"msisdn":"2430891777093",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86871703090465  MSISDN : 243993480392  IMSI: 630020983728311","accountResponse":{"imei":"86871703090465","imsi":"630020983728311","msisdn":"243993480392","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"1+","model":"OnePlus 5T","imeiQuantitySupport":0}}

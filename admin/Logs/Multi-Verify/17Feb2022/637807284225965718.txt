@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356894532525108",
+"msisdn":"243997537967",
+"primary":true},{
+"imei":"356894532525116",
+"msisdn":"243896060215",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35689453252510  MSISDN : 243997537967  IMSI: 630020980211099","accountResponse":{"imei":"35689453252510","imsi":"630020980211099","msisdn":"243997537967","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON 17","imeiQuantitySupport":3}}

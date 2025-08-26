@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358079914037942",
+"msisdn":"2430814626962",
+"primary":true},{
+"imei":"358079914037959",
+"msisdn":"2430997018023",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35807991403794  MSISDN : 243814626962  IMSI: 630010441670771","accountResponse":{"imei":"35807991403794","imsi":"630010441670771","msisdn":"243814626962","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"HOT 10i","imeiQuantitySupport":3}}

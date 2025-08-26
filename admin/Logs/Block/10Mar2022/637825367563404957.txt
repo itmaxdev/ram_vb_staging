@@ -1,0 +1,6 @@
+{
+"imei":"355469084424579",
+"statusId":"3",
+"operator":"africell",
+"user":"erik@euphoria.systems",
+"reason":"reason"}{"errorCode":601,"errorMessage":"Operator sent 'africell' does not match the msisdn’s operator 'orange' ","errors":[]}

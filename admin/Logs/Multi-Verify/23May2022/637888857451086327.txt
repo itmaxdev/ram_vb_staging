@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354242785341116",
+"msisdn":"243810535432",
+"primary":true},{
+"imei":"354242785341124",
+"msisdn":"243810535432",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35424278534111  MSISDN : 243810535432  IMSI: 630010409587110","accountResponse":{"imei":"35424278534111","imsi":"630010409587110","msisdn":"243810535432","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON 16","imeiQuantitySupport":2}}

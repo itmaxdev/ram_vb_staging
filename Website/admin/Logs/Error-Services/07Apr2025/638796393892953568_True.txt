@@ -1,0 +1,6 @@
+Exceptioin:System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at Ram.cd.Login.btnLogin_Click(Object sender, EventArgs e) in C:\Users\user\OneDrive - itmaxglobal.com\Desktop\Fadi-ITMax\Ram.cd\ram\Ram.cd\Login.aspx.vb:line 124

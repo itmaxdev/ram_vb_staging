@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354483116027491",
+"msisdn":"243857542222",
+"primary":false},{
+"imei":"354484116027499",
+"msisdn":"243814059253",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35448411602749  MSISDN : 243814059253  IMSI: 630010505742230","accountResponse":{"imei":"35448411602749","imsi":"630010505742230","msisdn":"243814059253","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A10s","imeiQuantitySupport":2}}

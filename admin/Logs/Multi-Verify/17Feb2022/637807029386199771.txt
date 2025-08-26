@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359194277703409",
+"msisdn":"2430814792796",
+"primary":true},{
+"imei":"359194277703425",
+"msisdn":"2430842560882",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35919427770340  MSISDN : 243814792796  IMSI: 630010445952503","accountResponse":{"imei":"35919427770340","imsi":"630010445952503","msisdn":"243814792796","operator":"vodacom","modelType":"2G","counterfeit":false,"roaming":false,"brand":"itel","model":"it5081","imeiQuantitySupport":3}}

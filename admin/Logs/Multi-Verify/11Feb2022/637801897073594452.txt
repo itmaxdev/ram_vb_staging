@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352348070121246",
+"msisdn":"243825157098",
+"primary":true},{
+"imei":"352348070121238",
+"msisdn":"243810159401",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35234807012124  MSISDN : 243825157098  IMSI: 630010500799930","accountResponse":{"imei":"35234807012124","imsi":"630010500799930","msisdn":"243825157098","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Motorola","model":"Moto G (2nd Gen)","imeiQuantitySupport":0}}

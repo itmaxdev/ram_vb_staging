@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"351598890451287",
+"msisdn":"243898530501",
+"primary":true},{
+"imei":"351598890551284",
+"msisdn":"243903900494",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35159889045128  MSISDN : 243898530501  IMSI: 630860153818994","accountResponse":{"imei":"35159889045128","imsi":"630860153818994","msisdn":"243898530501","operator":"africell","modelType":"2G","counterfeit":false,"roaming":false,"brand":"Itflycome","model":"if2160","imeiQuantitySupport":2}}

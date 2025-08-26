@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"911593000929341",
+"msisdn":"243828911347",
+"primary":true},{
+"imei":"911593000929358",
+"msisdn":"243859064694",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 91159300092934  MSISDN : 243828911347  IMSI: 630010243986599","accountResponse":{"imei":"91159300092934","imsi":"630010243986599","msisdn":"243828911347","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"INFINIX","model":"INFINIX X603","imeiQuantitySupport":0}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"863264043268752",
+"msisdn":"243840946004",
+"primary":true},{
+"imei":"863264043268745",
+"msisdn":"243993108244",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86326404326875  MSISDN : 243840946004  IMSI: 630860154175094","accountResponse":{"imei":"86326404326875","imsi":"630860154175094","msisdn":"243840946004","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"vivo","model":"vivo V17 Pro","imeiQuantitySupport":2}}

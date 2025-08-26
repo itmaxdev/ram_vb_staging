@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352119117486714",
+"msisdn":"243892866184",
+"primary":true},{
+"imei":"352120117486712",
+"msisdn":"243978422004",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35211911748671  MSISDN : 243892866184  IMSI: 630860151508326","accountResponse":{"imei":"35211911748671","imsi":"630860151508326","msisdn":"243892866184","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A10s","imeiQuantitySupport":2}}

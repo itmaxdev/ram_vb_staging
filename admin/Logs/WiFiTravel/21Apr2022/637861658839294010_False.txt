@@ -1,0 +1,1 @@
+https://bcm.ram.cd/bcm-service/wifi-travel{"imei":"353647100445825","msisdn":"243826497853","siteKey":"WF1335"}

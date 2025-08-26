@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358680102082689",
+"msisdn":"243821595325",
+"primary":true},{
+"imei":"358681102082687",
+"msisdn":"243904683665",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35868010208268  MSISDN : 243821595325  IMSI: 630010402356517","accountResponse":{"imei":"35868010208268","imsi":"630010402356517","msisdn":"243821595325","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A71","imeiQuantitySupport":2}}

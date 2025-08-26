@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"861732050597893",
+"msisdn":"243995373645",
+"primary":true},{
+"imei":"861732050603899",
+"msisdn":"243812955660",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86173205059789  MSISDN : 243995373645  IMSI: 630020980341397","accountResponse":{"imei":"86173205059789","imsi":"630020980341397","msisdn":"243995373645","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HUAWEI","model":"HUAWEI P50 Pro","imeiQuantitySupport":2}}

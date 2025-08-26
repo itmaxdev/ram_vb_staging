@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"350729340962067",
+"msisdn":"243817858776",
+"primary":true},{
+"imei":"350729340962075",
+"msisdn":"243811656528",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35072934096206  MSISDN : 243817858776  IMSI: 630010444908231","accountResponse":{"imei":"35072934096206","imsi":"630010444908231","msisdn":"243817858776","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"S16","imeiQuantitySupport":2}}

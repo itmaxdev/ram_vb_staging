@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359094102276177",
+"msisdn":"243976868419",
+"primary":false},{
+"imei":"359094102276185",
+"msisdn":"243856106520",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35909410227618  MSISDN : 243856106520  IMSI: 630860135968475","accountResponse":{"imei":"35909410227618","imsi":"630860135968475","msisdn":"243856106520","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Motorola","model":"Poker+","imeiQuantitySupport":2}}

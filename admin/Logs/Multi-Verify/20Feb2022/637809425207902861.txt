@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"357009922129309",
+"msisdn":"243992262727",
+"primary":true},{
+"imei":"357009922129317",
+"msisdn":"243847000141",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35700992212930  MSISDN : 243992262727  IMSI: 630020963837452","accountResponse":{"imei":"35700992212930","imsi":"630020963837452","msisdn":"243992262727","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"POP 4","imeiQuantitySupport":2}}

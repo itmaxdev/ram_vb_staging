@@ -1,0 +1,7 @@
+{
+"imei":"352691185680733",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"rachel.mutombo@orange.com 14 avril 2022"}{"timestamp":"2022-04-15T13:58:50.993+0000","status":401,"error":"Unauthorized","message":"Unauthorized","path":"/bcm-service/devices/status"}

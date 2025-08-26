@@ -1,0 +1,7 @@
+{
+"imei":"357752100955587",
+"msisdn":"0814065180",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"Test blocage"}{"errorCode":603,"errorMessage":"No record corresponding for the IMEI: 35775210095558","errors":[]}

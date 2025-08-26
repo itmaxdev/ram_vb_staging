@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"351384958383153",
+"msisdn":"243896735380",
+"primary":true},{
+"imei":"351384958383161",
+"msisdn":"243814525110",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35138495838315  MSISDN : 243896735380  IMSI: 630890132398348","accountResponse":{"imei":"35138495838315","imsi":"630890132398348","msisdn":"243896735380","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"RCA","model":"RCA Phone","imeiQuantitySupport":2}}

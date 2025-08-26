@@ -1,0 +1,5 @@
+{
+"imei":"86799105150499",
+"msisdn":"243822222837",
+"statusId":"3",
+"operator":"africell"}{"errorCode":601,"errorMessage":"Operator sent 'africell' does not match the msisdn’s operator 'vodacom' ","errors":[]}

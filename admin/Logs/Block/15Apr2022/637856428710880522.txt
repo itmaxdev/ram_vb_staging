@@ -1,0 +1,2 @@
+-Exceptioin:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ram.cd.Services_Block_Phone.BlockIMEI(String IMEI, String MSISDN, Int32 LangID, String Reason) in D:\repositories\ram\Ram.cd\Services-Block-Phone.aspx.vb:line 148

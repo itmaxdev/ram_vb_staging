@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353384850439911",
+"msisdn":"243818045971",
+"primary":true},{
+"imei":"353384850439903",
+"msisdn":"243818045971",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35338485043991  MSISDN : 243818045971  IMSI: 630010413407481","accountResponse":{"imei":"35338485043991","imsi":"630010413407481","msisdn":"243818045971","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"POP 4 Pro","imeiQuantitySupport":2}}

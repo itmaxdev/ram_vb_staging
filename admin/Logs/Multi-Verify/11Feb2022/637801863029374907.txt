@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359665448439809",
+"msisdn":"2430819430507",
+"primary":true},{
+"imei":"359665448439817",
+"msisdn":"2430814864943",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35966544843980  MSISDN : 243819430507  IMSI: 630010419883221","accountResponse":{"imei":"35966544843980","imsi":"630010419883221","msisdn":"243819430507","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"P15","imeiQuantitySupport":2}}

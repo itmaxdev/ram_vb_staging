@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353047668576881",
+"msisdn":"243991976581",
+"primary":false},{
+"imei":"353047668576899",
+"msisdn":"243896170264",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35304766857689  MSISDN : 243896170264  IMSI: 630860144245893","accountResponse":{"imei":"35304766857689","imsi":"630860144245893","msisdn":"243896170264","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"TECNO SPARK Go 2020","imeiQuantitySupport":2}}

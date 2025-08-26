@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355039208365386",
+"msisdn":"243852285793",
+"primary":true},{
+"imei":"355039208365394",
+"msisdn":"243974176571",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35503920836538  MSISDN : 243852285793  IMSI: 630860107380056","accountResponse":{"imei":"35503920836538","imsi":"630860107380056","msisdn":"243852285793","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"P37","imeiQuantitySupport":2}}

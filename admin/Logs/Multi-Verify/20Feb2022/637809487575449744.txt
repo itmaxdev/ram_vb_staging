@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354436057239491",
+"msisdn":"243970642288",
+"primary":true},{
+"imei":"354436057239491",
+"msisdn":"243970642288",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35443605723949  MSISDN : 243970642288  IMSI: 630020961204762","accountResponse":{"imei":"35443605723949","imsi":"630020961204762","msisdn":"243970642288","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HTC","model":"HTC One","imeiQuantitySupport":0}}

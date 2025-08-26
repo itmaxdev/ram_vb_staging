@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355106982513190",
+"msisdn":"243822790193",
+"primary":false},{
+"imei":"355106982513208",
+"msisdn":"243900220580",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35510698251320  MSISDN : 243900220580  IMSI: 630900404221104","accountResponse":{"imei":"35510698251320","imsi":"630900404221104","msisdn":"243900220580","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"TECNO SPARK 5 Air","imeiQuantitySupport":2}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355039205016370",
+"msisdn":"243822208928",
+"primary":true},{
+"imei":"355039205016362",
+"msisdn":"243974837464",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35503920501637  MSISDN : 243822208928  IMSI: 630010565715714","accountResponse":{"imei":"35503920501637","imsi":"630010565715714","msisdn":"243822208928","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"P37","imeiQuantitySupport":2}}

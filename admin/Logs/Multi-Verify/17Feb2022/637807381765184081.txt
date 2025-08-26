@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"867675053334794",
+"msisdn":"243816634364",
+"primary":false},{
+"imei":"867675053334786",
+"msisdn":"243910537671",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86767505333478  MSISDN : 243910537671  IMSI: 630900407067193","accountResponse":{"imei":"86767505333478","imsi":"630900407067193","msisdn":"243910537671","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"realme","model":"RMX3231","imeiQuantitySupport":2}}

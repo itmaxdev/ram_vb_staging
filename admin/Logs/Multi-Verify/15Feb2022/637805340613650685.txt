@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"357291302094440",
+"msisdn":"243971980374",
+"primary":false},{
+"imei":"358658922094449",
+"msisdn":"243896331840",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35865892209444  MSISDN : 243896331840  IMSI: 630860133901891","accountResponse":{"imei":"35865892209444","imsi":"630860133901891","msisdn":"243896331840","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A32 LTE","imeiQuantitySupport":2}}

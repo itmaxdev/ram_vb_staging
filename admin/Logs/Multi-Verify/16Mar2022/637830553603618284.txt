@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354397112440997",
+"msisdn":"243899830283",
+"primary":false},{
+"imei":"354398112440995",
+"msisdn":"243899830283",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35439811244099  MSISDN : 243899830283  IMSI: 630860168518980","accountResponse":{"imei":"35439811244099","imsi":"630860168518980","msisdn":"243899830283","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy S20 5G","imeiQuantitySupport":2}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354601080149526",
+"msisdn":"243893493630",
+"primary":true},{
+"imei":"354602080149524",
+"msisdn":"243815745922",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35460108014952  MSISDN : 243893493630  IMSI: 630860152092540","accountResponse":{"imei":"35460108014952","imsi":"630860152092540","msisdn":"243893493630","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung SM-A510FD","imeiQuantitySupport":0}}

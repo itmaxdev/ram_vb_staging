@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354156365047564",
+"msisdn":"2430998803040",
+"primary":true},{
+"imei":"354156365047572",
+"msisdn":"2430970644933",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35415636504756  MSISDN : 243998803040  IMSI: 630020962539978","accountResponse":{"imei":"35415636504756","imsi":"630020962539978","msisdn":"243998803040","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"HOT 10i","imeiQuantitySupport":2}}

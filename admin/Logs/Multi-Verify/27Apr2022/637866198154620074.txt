@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355255118395236",
+"msisdn":"243997178000",
+"primary":true},{
+"imei":"355256118395234",
+"msisdn":"243844000954",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35525511839523  MSISDN : 243997178000  IMSI: 630020983288890","accountResponse":{"imei":"35525511839523","imsi":"630020983288890","msisdn":"243997178000","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A51","imeiQuantitySupport":2}}

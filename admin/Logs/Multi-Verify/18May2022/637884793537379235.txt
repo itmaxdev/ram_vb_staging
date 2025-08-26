@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"866438054763359",
+"msisdn":"243810444436",
+"primary":true},{
+"imei":"866438054763367",
+"msisdn":"2430854065192",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86643805476335  MSISDN : 243810444436  IMSI: 630010442514948","accountResponse":{"imei":"86643805476335","imsi":"630010442514948","msisdn":"243810444436","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Redmi","model":"Redmi 9A","imeiQuantitySupport":2}}

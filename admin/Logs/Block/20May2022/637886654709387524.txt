@@ -1,0 +1,7 @@
+{
+"imei":"351678110052402",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"Olivier.Kande@bensizwe.com 2022-05-19 "}{"devices":[{"imei":"35167811005240","imsi":"630010565860865"}],"statusId":"3"}

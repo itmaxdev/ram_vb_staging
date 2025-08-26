@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"868140053143009",
+"msisdn":"243814729598",
+"primary":true},{
+"imei":"868140053143017",
+"msisdn":"243897532113",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86814005314300  MSISDN : 243814729598  IMSI: 630010440093938","accountResponse":{"imei":"86814005314300","imsi":"630010440093938","msisdn":"243814729598","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"POCO","model":"POCO X3 NFC","imeiQuantitySupport":2}}

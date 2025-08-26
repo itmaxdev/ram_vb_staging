@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356606110781329",
+"msisdn":"243822061532",
+"primary":true},{
+"imei":"356606110781337",
+"msisdn":"243840690336",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35660611078132  MSISDN : 243822061532  IMSI: 630010446816770","accountResponse":{"imei":"35660611078132","imsi":"630010446816770","msisdn":"243822061532","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON15","imeiQuantitySupport":2}}

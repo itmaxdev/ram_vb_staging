@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355238082300937",
+"msisdn":"243977647832",
+"primary":true},{
+"imei":"355238082300937",
+"msisdn":"243847205501",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35523808230093  MSISDN : 243977647832  IMSI: 630020979799672","accountResponse":{"imei":"35523808230093","imsi":"630020979799672","msisdn":"243977647832","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung SM-G955N","imeiQuantitySupport":0}}

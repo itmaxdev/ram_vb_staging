@@ -1,0 +1,1 @@
+https://bcm.ram.cd/bcm-service/devices/details?imei=35964620327372&msisdn={"errorCode":611,"errorMessage":"I/O error on GET request for \"http://172.30.101.4:8088/device-status\": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)","errors":[]}

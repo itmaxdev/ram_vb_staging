@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352370654334987",
+"msisdn":"243841012061",
+"primary":true},{
+"imei":"352370654334995",
+"msisdn":"243818252216",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35237065433498  MSISDN : 243841012061  IMSI: 630860151909606","accountResponse":{"imei":"35237065433498","imsi":"630860151909606","msisdn":"243841012061","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"A25 Pro","imeiQuantitySupport":2}}

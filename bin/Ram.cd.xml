@@ -1,0 +1,3386 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ram.cd
+</name>
+</assembly>
+<members>
+<member name="T:Ram.cd.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Ram.cd.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Ram.cd.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:Ram.cd.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:Ram.cd.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:Ram.cd.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="T:Ram.cd.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Ram.cd.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Ram.cd.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:Ram.cd.AdminLogin._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.AdminLogin._txtUsername">
+<summary>
+txtUsername control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.AdminLogin._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.AdminLogin._txtPassword">
+<summary>
+txtPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.AdminLogin._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.AdminLogin._btnCancel">
+<summary>
+btnCancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.AdminLogin._RadNotification1">
+<summary>
+RadNotification1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.AdminLogin.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.AdminLogin.btnSubmit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Submit button for admin login.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:Ram.cd.AdvertF._lblName">
+<summary>
+lblName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.AdvertF._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.AdvertF._adsdas">
+<summary>
+adsdas control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Adview._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Adview._ASPxGridView2">
+<summary>
+ASPxGridView2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Adview._LinqDataSource1">
+<summary>
+LinqDataSource1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Adview._ldsLanguages">
+<summary>
+ldsLanguages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Adview._ldsCategory">
+<summary>
+ldsCategory control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.content._mainlabel">
+<summary>
+mainlabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.content._cboContents">
+<summary>
+cboContents control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.content._btnLoad">
+<summary>
+btnLoad control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.content._RadEditor1">
+<summary>
+RadEditor1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.content._btnSave">
+<summary>
+btnSave control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Advertisement._IDtxb">
+<summary>
+IDtxb control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Advertisement._Nametxb">
+<summary>
+Nametxb control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Advertisement._Viewcounttxb">
+<summary>
+Viewcounttxb control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Advertisement._Activeslt">
+<summary>
+Activeslt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Advertisement._Filepathtxb">
+<summary>
+Filepathtxb control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Advertisement._Uploader">
+<summary>
+Uploader control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Advertisement._Updatebtn">
+<summary>
+Updatebtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Advertisement._Deletebtn">
+<summary>
+Deletebtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Advertisement._Backbtn">
+<summary>
+Backbtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.faquestions._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.faquestions._ASPxGridView2">
+<summary>
+ASPxGridView2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.faquestions._LinqDataSource1">
+<summary>
+LinqDataSource1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.faquestions._ldsLanguages">
+<summary>
+ldsLanguages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.faquestions._ldsCategory">
+<summary>
+ldsCategory control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.newsdata._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.newsdata._LinqDataSource1">
+<summary>
+LinqDataSource1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.newsdata._ldsLanguages">
+<summary>
+ldsLanguages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.RamAdmin._HeadBeforeCSS">
+<summary>
+HeadBeforeCSS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.RamAdmin._HeadAfterCSS">
+<summary>
+HeadAfterCSS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.RamAdmin._frmMain">
+<summary>
+frmMain control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.RamAdmin._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.RamAdmin._hider">
+<summary>
+hider control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.RamAdmin._fff">
+<summary>
+fff control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.RamAdmin._cphMain">
+<summary>
+cphMain control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Reports._RadFileExplorer1">
+<summary>
+RadFileExplorer1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Reports._theAjaxManager">
+<summary>
+theAjaxManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Reports._theLoadingPanel">
+<summary>
+theLoadingPanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Reports._Configuratorpanel1">
+<summary>
+Configuratorpanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Reports._ConfiguratorColumn1">
+<summary>
+ConfiguratorColumn1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Reports._AddDateColumn">
+<summary>
+AddDateColumn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.UserRoles._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.UserRoles._chkRoles">
+<summary>
+chkRoles control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.UserRoles._btnSave">
+<summary>
+btnSave control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.users._btnRefreshUsers">
+<summary>
+btnRefreshUsers control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.users._ASPxGridView6">
+<summary>
+ASPxGridView6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.users._RadNotification1">
+<summary>
+RadNotification1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Contacts._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Contacts._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Contacts._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Contacts._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Contacts._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Contacts._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Contacts._btnBlock">
+<summary>
+btnBlock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Contacts._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Contacts.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Contacts.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Contacts.LoadFAQ">
+ <summary>
+ Load FAQ section html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Contacts.GetContent(System.String)">
+ <summary>
+ Returns content to user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Contacts.CheckLang(System.Int32)">
+ <summary>
+ Checks active language on html elements.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Contacts.PlotLanguages">
+ <summary>
+ Plot language prints html elements, in specific language.
+ </summary>
+ <returns></returns>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Contacts.SendEmail(System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Send email web method.
+ </summary>
+ <param name="Name"></param>
+ <param name="EMail"></param>
+ <param name="NUmber"></param>
+ <param name="IMEI"></param>
+ <param name="Message"></param>
+ Public Shared Function SendEmail(ByVal Name As String, ByVal EMail As String, ByVal NUmber As String, ByVal IMEI As String, ByVal Message As String)
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._verifyLink">
+<summary>
+verifyLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._verifyTag">
+<summary>
+verifyTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._verifyImage">
+<summary>
+verifyImage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._verifyMultiLink">
+<summary>
+verifyMultiLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._verifyMultiTag">
+<summary>
+verifyMultiTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._verifyMultiImage">
+<summary>
+verifyMultiImage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._registerMultiTag">
+<summary>
+registerMultiTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._registerMultiImage">
+<summary>
+registerMultiImage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._paymentInfo">
+<summary>
+paymentInfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._payInfoTag">
+<summary>
+payInfoTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._payInfoImage">
+<summary>
+payInfoImage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._unblockLink">
+<summary>
+unblockLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._unblockTag">
+<summary>
+unblockTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._unblockImage">
+<summary>
+unblockImage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._blockLink">
+<summary>
+blockLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._blockTag">
+<summary>
+blockTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.ServiceSidePanel._blockImage">
+<summary>
+blockImage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.ServiceSidePanel.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.ServiceSidePanel.CheckAllowed2">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.ServiceSidePanel.CheckAllowed">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.SiteSlider._sliderTitle">
+<summary>
+sliderTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.SiteSlider._LoginView1">
+<summary>
+LoginView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.SiteSlider.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.SiteSlider.GetContent(System.String)">
+ <summary>
+ Gets the contents in the language selected.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.SiteHeader._HomeTag">
+<summary>
+HomeTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.SiteHeader._ServiceTag">
+<summary>
+ServiceTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.SiteHeader._NewsTag">
+<summary>
+NewsTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.SiteHeader._FAQTag">
+<summary>
+FAQTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.SiteHeader._ContactsTag">
+<summary>
+ContactsTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.SiteHeader.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.SiteHeader.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.SiteHeader.GetContent(System.String)">
+ <summary>
+ Gets the contents in the language selected.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.SiteHeader.PlotLanguages">
+ <summary>
+ Plot language prints html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.SiteFooter.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.SiteFooter.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.SiteFooter.LoadNews">
+ <summary>
+ Loads the news section and prints the html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.SiteFooter.GetContent(System.String)">
+ <summary>
+ Gets the contents in the language selected.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.DefaultCss._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd._Default._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd._Default._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd._Default._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd._Default._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd._Default._verifyblock">
+<summary>
+verifyblock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd._Default._registerblock">
+<summary>
+registerblock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd._Default._paymentinfoblock">
+<summary>
+paymentinfoblock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd._Default._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd._Default.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd._Default.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd._Default.GetLang">
+ <summary>
+ Get language and return it.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default.LoadMobileSlides">
+ <summary>
+ Loads Mobile slide view.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default.LoadFAQ">
+ <summary>
+ Loads FAQ section.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default.GetContent(System.String)">
+ <summary>
+ Gets and returns content to user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default.CheckLang(System.Int32)">
+ <summary>
+ Check language and set html element to active.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default.PlotLanguages">
+ <summary>
+ Plot language adds html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.DefaultDownloads._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.FAQ1._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.FAQ1._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.FAQ1._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.FAQ1._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.FAQ1._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.FAQ1._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.FAQ1.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.FAQ1.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.FAQ1.LoadFAQ">
+ <summary>
+ Load FAQ section html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.FAQ1.GetContent(System.String)">
+ <summary>
+ Gets content for html in specific language depends on language id.
+ </summary>
+ <param name="which"></param>
+ <returns>Content in specified language.</returns>
+</member>
+<member name="M:Ram.cd.FAQ1.BuildCategories">
+ <summary>
+ Builds categories section in specified language.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.FAQ1.BuildFAQs">
+ <summary>
+ Builds FAQ in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.FAQ1.CheckLang(System.Int32)">
+ <summary>
+ Checks and returns the active language on html element.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.FAQ1.PlotLanguages">
+ <summary>
+ Plot anguage returns html elements in specific language.
+ </summary>
+ <returns></returns>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.CookieHelper.CookieExists(System.String)">
+ <summary>
+ Check if cookie exists and return.
+ </summary>
+ <param name="cookieName"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.CookieHelper.GetCookieValue(System.String)">
+ <summary>
+ Gets the cookies value.
+ </summary>
+ <param name="cookieName"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.CookieHelper.SetPersistentCookie(System.String,System.String)">
+ <summary>
+ Sets the a persistent cookie.
+ </summary>
+ <param name="cookieName"></param>
+ <param name="cookieValue"></param>
+</member>
+<member name="M:Ram.cd.CookieHelper.SetCookie(System.String,System.String,System.Boolean)">
+ <summary>
+ Set a cookie.
+ </summary>
+ <param name="cookieName"></param>
+ <param name="cookieValue"></param>
+ <param name="persistent"></param>
+</member>
+<member name="M:Ram.cd.CookieHelper.SetCookie(System.String,System.String)">
+ <summary>
+ Set cookie.
+ </summary>
+ <param name="cookieName"></param>
+ <param name="cookieValue"></param>
+</member>
+<member name="M:Ram.cd.CookieHelper.ExpireCookie(System.String)">
+ <summary>
+ Expiry of the cookie.
+ </summary>
+ <param name="cookieName"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.VerifierErrorPrint(System.String,System.String,System.String,System.String,System.Boolean)">
+ <summary>
+ Prints exceptions of Block phone Page.
+ </summary>
+ <param name="ex"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.ServiceUnblockPhoneErrorPrint(System.String,System.String,System.String)">
+ <summary>
+ Prints exceptions of Block phone Page.
+ </summary>
+ <param name="ex"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.ServiceRegisterMultiSimErrorPrint(System.String,System.String,System.String)">
+ <summary>
+ Prints exceptions of Block phone Page.
+ </summary>
+ <param name="ex"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.ServiceFeeWebMethodErrorPrint(System.String,System.String,System.String,System.String)">
+ <summary>
+ Prints exceptions of Block phone Page.
+ </summary>
+ <param name="ex"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.ServiceFeeErrorPrint(System.String,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Prints exceptions of Service fees Page.
+ </summary>
+ <param name="ex"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.ServicesPhoneBlockErrorPrint(System.String,System.String,System.String)">
+ <summary>
+ Prints exceptions of Block phone Page.
+ </summary>
+ <param name="ex"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.PaymentInfoErrorPrint(System.String,System.String,System.String)">
+ <summary>
+ Prints exceptions of payment-info Page.
+ </summary>
+ <param name="ex"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.WIFIErrorPrint(System.String,System.String,System.String)">
+ <summary>
+ Prints exceptions of Wifi Page.
+ </summary>
+ <param name="ex"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.ErrorPrint(System.Exception)">
+ <summary>
+ Prints exceptions of service inside log file.
+ </summary>
+ <param name="ex"></param>
+</member>
+<member name="M:Ram.cd.ErrorLogger.ErrorPrintWex(System.Net.WebException)">
+ <summary>
+ Prints web exceptioins of service inside log file.
+ </summary>
+ <param name="wex"></param>
+</member>
+<member name="M:Ram.cd.LanguageIdHelper.LanguageIdSet(System.Int32)">
+ <summary>
+ Language id set is a function that sets the global variable languag id variable.
+ This is to help prevent query string injection.
+ </summary>
+</member>
+<member name="M:Ram.cd.LanguageIdHelper.SessionLanguage">
+ <summary>
+ Sets session variable for the language ID and also sets language ID.
+ </summary>
+</member>
+<member name="M:Ram.cd.LanguageIdHelper.LanguageDefault">
+ <summary>
+ Sets default language ID.
+ </summary>
+</member>
+<member name="F:Ram.cd.Login._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._txtEmail">
+<summary>
+txtEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._txtPass">
+<summary>
+txtPass control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._btnLogin">
+<summary>
+btnLogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._RadNotification1">
+<summary>
+RadNotification1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Login._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Login.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Login.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Login.LoadFAQ">
+ <summary>
+ Load FAQ section in html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Login.GetContent(System.String)">
+ <summary>
+ Gets and returns the content to user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Login.CheckLang(System.Int32)">
+ <summary>
+ Checks and returns the active language on html element.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Login.PlotLanguages">
+ <summary>
+ Plot language sets html content in specific language.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Login.btnLogin_Click(System.Object,System.EventArgs)">
+ <summary>
+ Login button click event.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:Ram.cd.LogOut._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.LogOut.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page Load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:Ram.cd.News._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.News._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.News._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.News._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.News._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.News._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.News.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.News.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.News.LoadFAQ">
+ <summary>
+ Load FAQ section in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.News.LoadFirstNews">
+ <summary>
+ Loads the latest news section.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.News.LoadNews">
+ <summary>
+ Loads news section in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.News.getLatestText(System.Boolean)">
+ <summary>
+ Gets the latest news feed prints in html element with other added elements.
+ </summary>
+ <param name="isVid"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.News.GetContent(System.String)">
+ <summary>
+ Gets and returns the content to the user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.News.CheckLang(System.Int32)">
+ <summary>
+ Checks the language and returns it as active on html element.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.News.PlotLanguages">
+ <summary>
+ Plot language prints html elements.
+ </summary>
+ <returns></returns>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.News.SendEmail(System.String,System.String,System.String,System.String)">
+ <summary>
+ Send email method.
+ </summary>
+ <param name="Name"></param>
+ <param name="EMail"></param>
+ <param name="NUmber"></param>
+ <param name="Message"></param>
+ <returns></returns>
+</member>
+<member name="T:Ram.cd.API.Process">
+ <summary>
+ Process class used for proccess page.
+ </summary>
+</member>
+<member name="F:Ram.cd.API.Process._ReciptForm">
+<summary>
+ReciptForm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.API.Process._pnlError">
+<summary>
+pnlError control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.API.Process._lblErrorCode">
+<summary>
+lblErrorCode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.API.Process._lblErrorMessage">
+<summary>
+lblErrorMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.API.Process._pnlResults">
+<summary>
+pnlResults control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.API.Process._lblGateWayCode">
+<summary>
+lblGateWayCode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.API.Process._lblResult">
+<summary>
+lblResult control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.API.Process._pnlFieldResults">
+<summary>
+pnlFieldResults control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.API.Process._txtRawResponse">
+<summary>
+txtRawResponse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.API.Process.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="T:Ram.cd.API.Connection">
+ <summary>
+ Connection class regarding merchant.
+ </summary>
+</member>
+<member name="M:Ram.cd.API.Connection.#ctor(Ram.cd.API.Merchant)">
+ <summary>
+ This.merchant value.
+ </summary>
+ <param name="merchant"></param>
+</member>
+<member name="M:Ram.cd.API.Connection.ValidateRemoteCertificate(System.Object,System.Security.Cryptography.X509Certificates.X509Certificate,System.Security.Cryptography.X509Certificates.X509Chain,System.Net.Security.SslPolicyErrors)">
+ <summary>
+ Validates remote certification.
+ </summary>
+ <param name="sender"></param>
+ <param name="certificate"></param>
+ <param name="chain"></param>
+ <param name="policyErrors"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.API.Connection.SendTransaction(System.String)">
+ <summary>
+ Sends a transaction.
+ </summary>
+ <param name="data"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.API.Connection.GetTransaction">
+ <summary>
+ Gets a transaction.
+ </summary>
+ <returns></returns>
+</member>
+<member name="T:Ram.cd.API.Merchant">
+ <summary>
+ Merchant class defines all members under merchant. 
+ </summary>
+</member>
+<member name="M:Ram.cd.API.Merchant.#ctor">
+ <summary>
+ Sets all merchant members.
+ </summary>
+</member>
+<member name="T:Ram.cd.API.Json">
+ <summary>
+ Json class.
+ </summary>
+</member>
+<member name="M:Ram.cd.API.Json.BuildJsonFromNVC(System.Collections.Specialized.NameValueCollection)">
+ <summary>
+ Builds and returns a json object.
+ </summary>
+ <param name="nvc"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.API.Json.BuildNVCFromJson(System.String)">
+ <summary>
+ Builds a name value collection from json object.
+ </summary>
+ <param name="json"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.API.Json.TraverseDictionary(System.String,System.Collections.Generic.Dictionary{System.String,System.Object})">
+ <summary>
+ Traverses the name value collection.
+ </summary>
+ <param name="path"></param>
+ <param name="dict"></param>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.Registration._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Registration._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Registration._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Registration._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Registration._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Registration._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Registration._txtEmail">
+<summary>
+txtEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Registration._txtPass">
+<summary>
+txtPass control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Registration._btnRegister">
+<summary>
+btnRegister control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Registration._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Registration.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Registration.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Registration.LoadFAQ">
+ <summary>
+ Prints FAQ section in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Registration.GetContent(System.String)">
+ <summary>
+ Gets and returns content to user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Registration.CheckLang(System.Int32)">
+ <summary>
+ Checks language and sets html element to active.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Registration.PlotLanguages">
+ <summary>
+ Plot language prints html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Registration.Register(System.String,System.String)">
+ <summary>
+ Register user by email and password.
+ </summary>
+ <param name="Email"></param>
+ <param name="Pass"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Registration.btnRegister_Click(System.Object,System.EventArgs)">
+ <summary>
+ Button register client click event.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:Ram.cd.Services_Block_Phone._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Block_Phone._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Block_Phone._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Block_Phone._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Block_Phone._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Block_Phone._sidePanel">
+<summary>
+sidePanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Block_Phone._btnBlock">
+<summary>
+btnBlock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Block_Phone._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.CheckAllowed">
+ <summary>
+ Check user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.CheckAllowed2">
+ <summary>
+ Checck user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.LoadFAQ">
+ <summary>
+ Prints FAQ section in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.GetContent(System.String)">
+ <summary>
+ Gets and returns content to user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.CheckLang(System.Int32)">
+ <summary>
+ Checks language and sets html element to active.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.PlotLanguages">
+ <summary>
+ Plot language prints html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.BlockIMEI(System.String,System.String,System.Int32,System.String,System.String)">
+ <summary>
+ Block Imei blocks the specified imei number.
+ </summary>
+ <param name="IMEI"></param>
+ <param name="MSISDN"></param>
+ <param name="LangID"></param>
+ <param name="Reason"></param>
+ <param name="immediateBlocking"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Block_Phone.GetContentA(System.String,System.Int32)">
+ <summary>
+ Returns content to user interface.
+ </summary>
+ <param name="which"></param>
+ <param name="LanguageID"></param>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.Services_Fees._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Fees._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Fees._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Fees._scrp">
+<summary>
+scrp control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Fees._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Fees._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Fees._sidePanel">
+<summary>
+sidePanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Fees._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Fees._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Services_Fees.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Services_Fees.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Services_Fees.CheckAllowed">
+ <summary>
+ Check allowed Checks user roles, and prints html acordingly.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.CheckAllowed2">
+ <summary>
+ Check allowed 2 Checks user roles, and prints html acordingly.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.LoadFAQ">
+ <summary>
+ Load FAQ, loads the FAQ section, which prints to html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.GetContent(System.String)">
+ <summary>
+ Gets content for html in specific language depends on language id.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.GetContentA(System.String,System.Int32)">
+ <summary>
+ Gets content to parse to frontend based on language id.
+ </summary>
+ <param name="which"></param>
+ <param name="LanguageID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.CheckLang(System.Int32)">
+ <summary>
+ Check lang checks the language and sets html attributes.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.PlotLanguages">
+ <summary>
+ Plot languages prints html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.ProcessPayment(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+ <summary>
+ Main web method to proccess payment for service fees.
+ </summary>
+ <param name="IMEI"></param>
+ <param name="FeesDue"></param>
+ <param name="vsMonth"></param>
+ <param name="vsYear"></param>
+ <param name="vsNameOnCard"></param>
+ <param name="vsCardNumber"></param>
+ <param name="vsCVV"></param>
+ <param name="vaBA"></param>
+ <param name="MSISN"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.Payment_Message_Proccess(RestSharp.RestResponse,System.String,System.String,System.String)">
+ <summary>
+ Payment_Message_Proccess Sets the reponse message to return for display once payment is complete.
+ </summary>
+ <param name="resposne"></param>
+ <param name="IMEI"></param>
+ <param name="MSISN"></param>
+ <param name="PaymentAmount"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.PaymentUpdate(System.String,System.String,System.String)">
+ <summary>
+ Updates payments for set imei and msisn numbers.
+ </summary>
+ <param name="IMEI"></param>
+ <param name="MSISN"></param>
+ <param name="AmountCharged"></param>
+</member>
+<member name="M:Ram.cd.Services_Fees.GetFeesDue(System.String,System.String)">
+ <summary>
+ Gets the fees due for the specific imei and msisn number.
+ </summary>
+ <param name="IMEI"></param>
+ <param name="MSISN"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.VerifyIMEI(System.String,System.String,System.Int32)">
+ <summary>
+ Verifies imei number.
+ </summary>
+ <param name="IMEI"></param>
+ <param name="MSISN"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.PlotTable(System.Collections.Generic.List{Ram.cd.DeviceInfo},System.Int32)">
+ <summary>
+ Plot table prints html elements.
+ </summary>
+ <param name="dd"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Fees.GetHTML(Ram.cd.DeviceInfo,System.Int32)">
+ <summary>
+ Gets and prints html elements.
+ </summary>
+ <param name="DeviceInfo"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="T:Ram.cd.AuthorizationResponse">
+ <summary>
+ Authorization response class of json object returned from payment proccess.
+ </summary>
+</member>
+<member name="T:Ram.cd.Order">
+ <summary>
+ Order class of json object returned from payment proccess.
+ </summary>
+</member>
+<member name="T:Ram.cd.Response">
+ <summary>
+ Response class of json object returned from payment proccess.
+ </summary>
+</member>
+<member name="T:Ram.cd.Payment">
+ <summary>
+ This is the main access class to the json object.
+ Payment class of json object returned from payment proccess.
+ </summary>
+</member>
+<member name="T:Ram.cd.Error_Payment">
+ <summary>
+ Error payment class of json object returned from payment proccess.
+ </summary>
+</member>
+<member name="F:Ram.cd.Services_Register_Dual_SIM._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Services_Register_Dual_SIM.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:Ram.cd.Services_Register_Multi_SIM._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Register_Multi_SIM._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Register_Multi_SIM._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Register_Multi_SIM._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Register_Multi_SIM._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Register_Multi_SIM._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Register_Multi_SIM._sidePanel">
+<summary>
+sidePanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Register_Multi_SIM._btnBlock">
+<summary>
+btnBlock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Register_Multi_SIM._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.CheckAllowed">
+ <summary>
+ Check user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.CheckAllowed2">
+ <summary>
+ Check user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.LoadFAQ">
+ <summary>
+ Loads FAQ section in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.GetContent(System.String)">
+ <summary>
+ Returns content to user interfacce.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.CheckLang(System.Int32)">
+ <summary>
+ Checks language and sets html element to active.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.PlotLanguages">
+ <summary>
+ Plot language prints html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.RegisterDualSim(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+ <summary>
+ Registers dual sim.
+ </summary>
+ <param name="IMEI"></param>
+ <param name="msisdn"></param>
+ <param name="IMEI2"></param>
+ <param name="msisdn2"></param>
+ <param name="IMEI3"></param>
+ <param name="msisdn3"></param>
+ <param name="IMEI4"></param>
+ <param name="msisdn4"></param>
+ <param name="Sim1Primary"></param>
+ <param name="Sim2Primary"></param>
+ <param name="Sim3Primary"></param>
+ <param name="Sim4Primary"></param>
+ <param name="Lang"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Register_Multi_SIM.GetContentA(System.String,System.Int32)">
+ <summary>
+ Gets content and returns to user interface.
+ </summary>
+ <param name="which"></param>
+ <param name="LanguageID"></param>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.Services_Unblock_Phone._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Unblock_Phone._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Unblock_Phone._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Unblock_Phone._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Unblock_Phone._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Unblock_Phone._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Unblock_Phone._sidePanel">
+<summary>
+sidePanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Unblock_Phone._btnBlock">
+<summary>
+btnBlock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Unblock_Phone._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.CheckAllowed">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.CheckAllowed2">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.LoadFAQ">
+ <summary>
+ Loads FAQ section in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.GetContent(System.String)">
+ <summary>
+ Gets content and returns to user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.CheckLang(System.Int32)">
+ <summary>
+ Checks language and sets html to active.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.PlotLanguages">
+ <summary>
+ Plot language 
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.UnblockIMEI(System.String,System.String,System.Int32,System.String)">
+ <summary>
+ Unblocks imei numbers.
+ </summary>
+ <param name="IMEI"></param>
+ <param name="MSISDN"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Unblock_Phone.GetContentA(System.String,System.Int32)">
+ <summary>
+ Gets and returns content to user interface.
+ </summary>
+ <param name="which"></param>
+ <param name="LanguageID"></param>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.payment_info._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.payment_info._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.payment_info._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.payment_info._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.payment_info._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.payment_info._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.payment_info._sidePanel">
+<summary>
+sidePanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.payment_info._btnBlock">
+<summary>
+btnBlock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.payment_info._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.payment_info.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.payment_info.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.payment_info.CheckAllowed">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.CheckAllowed2">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.LoadFAQ">
+ <summary>
+ Loads FAQ section in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.GetContent(System.String)">
+ <summary>
+ Gets and returns contetnt to user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.GetContentA(System.String,System.Int32)">
+ <summary>
+ Gets and returns the content to user interface.
+ </summary>
+ <param name="which"></param>
+ <param name="LanguageID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.CheckLang(System.Int32)">
+ <summary>
+ Checks language and sets html element to active.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.PlotLanguages">
+ <summary>
+ Plot language returns html elements for language selection.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.GetPaymentInfo(System.String,System.Int32,System.String)">
+ <summary>
+ Gets payment information for specified msisdn.
+ </summary>
+ <param name="MSISDN"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.PlotTable(System.Int32)">
+ <summary>
+ Plot table prints html element.
+ </summary>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.GetPaymentHTML(System.Int32,Ram.cd.BillingInfo)">
+ <summary>
+ Prints table of html elements for payment information on Mobile.
+ </summary>
+ <param name="LangID"></param>
+ <param name="bi"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.GetPaymentHTMLDesktop(System.Int32,Ram.cd.BillingInfo)">
+ <summary>
+ Prints table of html elements for payment information on desktop PC.
+ </summary>
+ <param name="LangID"></param>
+ <param name="bi"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.payment_info.GetHTML(System.Int32,Ram.cd.BillingInfo)">
+ <summary>
+ Gets html elements.
+ </summary>
+ <param name="LangID"></param>
+ <param name="bi"></param>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._sidePanel">
+<summary>
+sidePanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._btnBlock">
+<summary>
+btnBlock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._tableResults">
+<summary>
+tableResults control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_IMEI._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.CheckAllowed">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.CheckAllowed2">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.LoadFAQ">
+ <summary>
+ Loads the FAQ section in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.GetContent(System.String)">
+ <summary>
+ Gets and returns the content to the user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.GetContentA(System.String,System.Int32)">
+ <summary>
+ Gets and returns the content to the user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.CheckLang(System.Int32)">
+ <summary>
+ Checks language and sets html element to active.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.PlotLanguages">
+ <summary>
+ Plot language prints html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.VerifyIMEI(System.String,System.String,System.Int32)">
+ <summary>
+ Verify Imei number verifies the imei.
+ </summary>
+ <param name="IMEI"></param>
+ <param name="MSISDN"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.PlotTable(System.Collections.Generic.List{Ram.cd.DeviceInfo},System.Int32)">
+ <summary>
+ Prints plot table in html.
+ </summary>
+ <param name="dd"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.GetHTML(Ram.cd.DeviceInfo,System.Int32)">
+ <summary>
+ Gets html and prints to user interface.
+ </summary>
+ <param name="DeviceInfo"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_IMEI.GetRAMHTML(Ram.cd.DeviceInfo,System.Int32)">
+ <summary>
+ Gets the ram html elements.
+ </summary>
+ <param name="DeviceInfo"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._sidePanel">
+<summary>
+sidePanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._txtPhone">
+<summary>
+txtPhone control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._bbb">
+<summary>
+bbb control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services_Verify_Multiple_IMEI._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.CheckAllowed">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.CheckAllowed2">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.LoadFAQ">
+ <summary>
+ Loads FAQ section in html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.GetContent(System.String)">
+ <summary>
+ Gets and returns content to user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.CheckLang(System.Int32)">
+ <summary>
+ Checks language and sets html element to active.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.PlotLanguages">
+ <summary>
+ Plot language, prints html element.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.btnBlock_ServerClick(System.Object,System.EventArgs)">
+ <summary>
+ Button block server click event.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Services_Verify_Multiple_IMEI.bbb_Click(System.Object,System.EventArgs)">
+ <summary>
+ Button block click event.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:Ram.cd.Services._layout">
+<summary>
+layout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services._colorChem">
+<summary>
+colorChem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services._SiteHeader1">
+<summary>
+SiteHeader1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services._SiteSlider1">
+<summary>
+SiteSlider1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services._verifyblock">
+<summary>
+verifyblock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services._serviceregister">
+<summary>
+serviceregister control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services._paymentinfoserviceblock">
+<summary>
+paymentinfoserviceblock control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd.Services._SiteFooter">
+<summary>
+SiteFooter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.Services.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd.Services.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd.Services.LoadFAQ">
+ <summary>
+ Load FAQ, loads the FAQ section, which prints to html.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services.CheckAllowed">
+ <summary>
+ Check allowed Checks user roles, and prints html acordingly.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services.CheckAllowed2">
+ <summary>
+ Check allowed 2 Checks user roles, and prints html acordingly.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services.GetContent(System.String)">
+ <summary>
+ Gets content for html in specific language depends on language id.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services.CheckLang(System.Int32)">
+ <summary>
+ Check lang checks the language and sets html attributes.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd.Services.PlotLanguages">
+ <summary>
+ Plot languages prints html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="F:Ram.cd.WiFi._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd.WiFi.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:Ram.cd._Default2._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Ram.cd._Default2._scriptmanager">
+<summary>
+scriptmanager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:Ram.cd._Default2.Page_Load(System.Object,System.EventArgs)">
+ <summary>
+ Page load function.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Ram.cd._Default2.LoadLanguage">
+ <summary>
+ Gets the language of the page by means of the language helper class.
+ </summary>
+</member>
+<member name="M:Ram.cd._Default2.CheckAllowed">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default2.CheckAllowed2">
+ <summary>
+ Checks user roles.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default2.LoadFAQ">
+ <summary>
+ Load FAQ section.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default2.GetContent(System.String)">
+ <summary>
+ Gets content and returns it to the user interface.
+ </summary>
+ <param name="which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default2.GetContentA(System.String,System.Int32)">
+ <summary>
+ Gets and returns content to user interface.
+ </summary>
+ <param name="which"></param>
+ <param name="LanguageID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default2.CheckLang(System.Int32)">
+ <summary>
+ Checks language and sets html element to active.
+ </summary>
+ <param name="Which"></param>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default2.PlotLanguages">
+ <summary>
+ Sets html elements.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ram.cd._Default2.ProcessWiFi(System.String,System.String,System.Int32,System.String)">
+ <summary>
+ Processes the imei and msisdn number.
+ </summary>
+ <param name="IMEI"></param>
+ <param name="MSISN"></param>
+ <param name="LangID"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>

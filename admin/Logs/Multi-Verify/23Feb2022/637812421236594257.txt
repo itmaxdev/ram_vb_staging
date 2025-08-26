@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"350631231574201",
+"msisdn":"243973184210",
+"primary":false},{
+"imei":"350631231574219",
+"msisdn":"243840156788",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35063123157421  MSISDN : 243840156788  IMSI: 630860146751684","accountResponse":{"imei":"35063123157421","imsi":"630860146751684","msisdn":"243840156788","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"TECNO SPARK 8P","imeiQuantitySupport":2}}

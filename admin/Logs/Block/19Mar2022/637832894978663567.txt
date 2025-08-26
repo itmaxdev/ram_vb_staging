@@ -1,0 +1,5 @@
+{
+"imei":"35922207078970",
+"msisdn":"243852754719",
+"statusId":"3",
+"operator":"orange"}{"devices":[{"imei":"35922207078970","imsi":"630860168094590"}],"statusId":"3"}

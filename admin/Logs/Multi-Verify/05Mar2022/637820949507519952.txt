@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358624094490385",
+"msisdn":"243825413834",
+"primary":true},{
+"imei":"358625094490382",
+"msisdn":"243972919104",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35862409449038  MSISDN : 243825413834  IMSI: 630010493364897","accountResponse":{"imei":"35862409449038","imsi":"630010493364897","msisdn":"243825413834","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy S9","imeiQuantitySupport":0}}

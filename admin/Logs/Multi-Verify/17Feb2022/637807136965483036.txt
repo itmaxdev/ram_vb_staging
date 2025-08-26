@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358735092035152",
+"msisdn":"243840000203",
+"primary":true},{
+"imei":"358735092005494",
+"msisdn":"243823950052",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35873509203515  MSISDN : 243840000203  IMSI: 630860139657872","accountResponse":{"imei":"35873509203515","imsi":"630860139657872","msisdn":"243840000203","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Apple","model":"Apple iPhone XS MAX (A2104)","imeiQuantitySupport":2}}

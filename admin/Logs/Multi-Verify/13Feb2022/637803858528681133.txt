@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355338101088784",
+"msisdn":"243995313734",
+"primary":true},{
+"imei":"355339101088782",
+"msisdn":"243817440612",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35533810108878  MSISDN : 243995313734  IMSI: 630020757639428","accountResponse":{"imei":"35533810108878","imsi":"630020757639428","msisdn":"243995313734","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy S10+","imeiQuantitySupport":2}}

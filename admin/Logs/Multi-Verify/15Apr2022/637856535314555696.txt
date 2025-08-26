@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354439111312379",
+"msisdn":"243822890470",
+"primary":true},{
+"imei":"354439111312387",
+"msisdn":"243891200357",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35443911131237  MSISDN : 243822890470  IMSI: 630010411469737","accountResponse":{"imei":"35443911131237","imsi":"630010411469737","msisdn":"243822890470","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"ulefone","model":"Armor X6","imeiQuantitySupport":2}}

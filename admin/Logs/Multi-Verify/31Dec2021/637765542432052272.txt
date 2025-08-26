@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355663106208560",
+"msisdn":"243851223245",
+"primary":false},{
+"imei":"355664106208568",
+"msisdn":"243828132021",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35566410620856  MSISDN : 243828132021  IMSI: 630010241544626","accountResponse":{"imei":"35566410620856","imsi":"630010241544626","msisdn":"243828132021","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy J4 Core","imeiQuantitySupport":2}}

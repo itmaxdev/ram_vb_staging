@@ -1,0 +1,7 @@
+{
+"imei":"356071072746887",
+"msisdn":"",
+"statusId":"3",
+"operator":"orange",
+"user":"erik@euphoria.systems",
+"reason":"blocageee"}{"errorCode":604,"errorMessage":"This account can only block IMEI paired with 'vodacom' mobile numbers","errors":[]}

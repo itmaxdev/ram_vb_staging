@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353713105753785",
+"msisdn":"243814225000",
+"primary":true},{
+"imei":"353713105753793",
+"msisdn":"243990729468",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35371310575378  MSISDN : 243814225000  IMSI: 630010419864722","accountResponse":{"imei":"35371310575378","imsi":"630010419864722","msisdn":"243814225000","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Allcall","model":"MIX2","imeiQuantitySupport":0}}

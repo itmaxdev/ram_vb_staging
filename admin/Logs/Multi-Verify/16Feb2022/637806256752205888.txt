@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356894532768799",
+"msisdn":"243856460037",
+"primary":false},{
+"imei":"356894532768807",
+"msisdn":"243819915731",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35689453276880  MSISDN : 243819915731  IMSI: 630010250487318","accountResponse":{"imei":"35689453276880","imsi":"630010250487318","msisdn":"243819915731","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON 17","imeiQuantitySupport":3}}

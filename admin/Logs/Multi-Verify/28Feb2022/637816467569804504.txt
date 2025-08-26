@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353885284885420",
+"msisdn":"243975031346",
+"primary":true},{
+"imei":"353885284885438",
+"msisdn":"243815006210",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35388528488542  MSISDN : 243975031346  IMSI: 630020958613620","accountResponse":{"imei":"35388528488542","imsi":"630020958613620","msisdn":"243975031346","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"S16","imeiQuantitySupport":2}}

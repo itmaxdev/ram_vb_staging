@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"351797762921431",
+"msisdn":"243899957445",
+"primary":true},{
+"imei":"351797762921449",
+"msisdn":"243900802029",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35179776292143  MSISDN : 243899957445  IMSI: 630860145218554","accountResponse":{"imei":"35179776292143","imsi":"630860145218554","msisdn":"243899957445","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON 16 Premier","imeiQuantitySupport":2}}

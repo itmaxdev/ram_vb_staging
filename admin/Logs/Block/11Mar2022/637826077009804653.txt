@@ -1,0 +1,7 @@
+{
+"imei":"35337011278789",
+"msisdn":"243859368257",
+"statusId":"3",
+"operator":"orange",
+"user":"kra@5c-energy-rdc.com",
+"reason":"stolen "}{"devices":[{"imei":"35337011278789","imsi":"630860157470022"}],"statusId":"3"}

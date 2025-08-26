@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"864557032290623",
+"msisdn":"243824303408",
+"primary":true},{
+"imei":"864557032323622",
+"msisdn":"243906157831",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86455703229062  MSISDN : 243824303408  IMSI: 630010489020838","accountResponse":{"imei":"86455703229062","imsi":"630010489020838","msisdn":"243824303408","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Lenovo","model":"Lenovo K","imeiQuantitySupport":0}}

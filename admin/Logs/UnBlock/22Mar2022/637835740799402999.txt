@@ -1,0 +1,7 @@
+{
+"imei":"358658251481159",
+"operator":"orange",
+"msisdn":"",
+"statusId":"0",
+"user":"christian.k@5c-energy-rdc.com",
+"reason":"test"}{"devices":[{"imei":"35865825148115","imsi":"630010410580830"}],"statusId":"0"}

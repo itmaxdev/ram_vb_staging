@@ -1,0 +1,7 @@
+{
+"imei":"862189042699841",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"joelle@5C-energy-rdc.com",
+"reason":"Cedrick.EKOFO@orange.com"}{"devices":[{"imei":"86218904269984","imsi":"630860153154083"}],"statusId":"3"}

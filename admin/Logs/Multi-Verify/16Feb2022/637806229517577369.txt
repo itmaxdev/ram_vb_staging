@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"866637036834945",
+"msisdn":"243977553940",
+"primary":false},{
+"imei":"866637036884015",
+"msisdn":"243819991793",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86663703688401  MSISDN : 243819991793  IMSI: 630010576696500","accountResponse":{"imei":"86663703688401","imsi":"630010576696500","msisdn":"243819991793","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HONOR","model":"STF-AL10","imeiQuantitySupport":0}}

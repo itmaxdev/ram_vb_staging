@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"357529103378243",
+"msisdn":"243977979731",
+"primary":true},{
+"imei":"357532103378247",
+"msisdn":"243997791775",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35752910337824  MSISDN : 243977979731  IMSI: 630020757139573","accountResponse":{"imei":"35752910337824","imsi":"630020757139573","msisdn":"243977979731","operator":"airtel","modelType":"2G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung GT-E1207Y","imeiQuantitySupport":2}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"860623025488618",
+"msisdn":"243903326239",
+"primary":true},{
+"imei":"860623025488618",
+"msisdn":"243819999674",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86062302548861  MSISDN : 243903326239  IMSI: 630900148128972","accountResponse":{"imei":"86062302548861","imsi":"630900148128972","msisdn":"243903326239","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HUAWEI","model":"HUAWEI HUAWEI G610-U00","imeiQuantitySupport":0}}

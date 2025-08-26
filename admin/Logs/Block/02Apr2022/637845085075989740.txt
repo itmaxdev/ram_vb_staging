@@ -1,0 +1,7 @@
+{
+"imei":"35608726103596",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"christian.k@5c-energy-rdc.com",
+"reason":"Perte telephone Dieumerci."}{"devices":[{"imei":"35608726103596","imsi":"204047584442188"}],"statusId":"3"}

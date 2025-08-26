@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356134105586207",
+"msisdn":"243898882476",
+"primary":false},{
+"imei":"356135105586204",
+"msisdn":"243824605005",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35613510558620  MSISDN : 243824605005  IMSI: 630010447393789","accountResponse":{"imei":"35613510558620","imsi":"630010447393789","msisdn":"243824605005","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A2 Core","imeiQuantitySupport":2}}

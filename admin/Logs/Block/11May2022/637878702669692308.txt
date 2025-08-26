@@ -1,0 +1,7 @@
+{
+"imei":"353370112787874",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"Test blocage"}{"devices":[{"imei":"35337011278787","imsi":"630900405543885"}],"statusId":"3"}

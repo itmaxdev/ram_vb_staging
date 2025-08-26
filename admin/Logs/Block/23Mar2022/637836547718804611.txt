@@ -1,0 +1,7 @@
+{
+"imei":"35837880255273",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"kra@5c-energy-rdc.com",
+"reason":"telephone vole "}{"errorCode":613,"errorMessage":"Multiple matching records for IMEI: 35837880255273","errors":[]}

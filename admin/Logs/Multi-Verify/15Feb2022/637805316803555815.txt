@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354497352717177",
+"msisdn":"243890262752",
+"primary":false},{
+"imei":"354497352717185",
+"msisdn":"243999042476",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35449735271718  MSISDN : 243999042476  IMSI: 630020983554647","accountResponse":{"imei":"35449735271718","imsi":"630020983554647","msisdn":"243999042476","operator":"vodacom","modelType":"3G","counterfeit":true,"roaming":false,"brand":"","model":"","imeiQuantitySupport":0}}

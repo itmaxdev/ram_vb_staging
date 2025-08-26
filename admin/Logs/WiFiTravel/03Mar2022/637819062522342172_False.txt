@@ -1,0 +1,1 @@
+https://bcm.ram.cd/bcm-service/wifi-travel{"imei":"359229107828917","msisdn":"243851541206","siteKey":"WF1335"}{"errorCode":621,"errorMessage":"Account has RAM fees unsetteled","errors":[]}

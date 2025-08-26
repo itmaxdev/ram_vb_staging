@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354217680948652",
+"msisdn":"243816883222",
+"primary":false},{
+"imei":"354217680979574",
+"msisdn":"243997253590",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35421768097957  MSISDN : 243997253590  IMSI: 630020946326087","accountResponse":{"imei":"35421768097957","imsi":"630020946326087","msisdn":"243997253590","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Apple","model":"Apple iPhone 12 Pro Max (A2412)","imeiQuantitySupport":2}}

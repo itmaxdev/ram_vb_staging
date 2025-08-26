@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358285102211369",
+"msisdn":"243812686597",
+"primary":true},{
+"imei":"358285102211377",
+"msisdn":"243971996948",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35828510221136  MSISDN : 243812686597  IMSI: 630010508110990","accountResponse":{"imei":"35828510221136","imsi":"630010508110990","msisdn":"243812686597","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"LT MOBILE","model":"LT-NOTE 10S","imeiQuantitySupport":2}}

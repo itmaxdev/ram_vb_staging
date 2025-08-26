@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355206112168947",
+"msisdn":"243816506370",
+"primary":true},{
+"imei":"355206112168954",
+"msisdn":"243891889574",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35520611216894  MSISDN : 243816506370  IMSI: 630010440368968","accountResponse":{"imei":"35520611216894","imsi":"630010440368968","msisdn":"243816506370","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"Pouvoir 4","imeiQuantitySupport":2}}

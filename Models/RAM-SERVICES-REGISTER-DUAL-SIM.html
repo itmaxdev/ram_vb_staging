@@ -1,0 +1,645 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" translate="no">
+<head>
+    <meta name="google" content="notranslate" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="keywords" />
+    <meta name="decription" />
+    <meta name="designer" content="Ripon Rishi" />
+
+    <!-- Title -->
+    <title>
+        RAM
+    </title>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+    </style>
+
+    <!-- Fav Icon -->
+    <link rel="icon" href="favicon.ico" />
+
+    <!-- Include Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="bootstrap/bootstrap/css/bootstrap.min.css" />
+    <link href="css/ziehharmonika.css" rel="stylesheet" type="text/css" />
+
+    <!-- Main StyleSheet -->
+    <link rel="stylesheet" href="style.css?new=1" />
+
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="css/responsive.css" />
+
+    <style type="text/css">
+        .header-inner ul li:first-child a:after {
+            content: "";
+            clear: both;
+            display: none;
+            width: 100%;
+            height: 3px;
+            background-color: #E3C600;
+        }
+
+
+        .header-inner ul li:nth-child(2) a:after {
+            content: "";
+            clear: both;
+            display: block;
+            width: 100%;
+            height: 3px;
+            background-color: #E3C600;
+        }
+
+        .g-recaptcha {
+            transform: scale(0.8);
+            transform-origin: 0 0;
+        }
+    </style>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script type="text/javascript">
+        function nothuman() {
+            var response = grecaptcha.getResponse();
+            if (response.length == 0) {
+                return false;
+            }
+            else {
+                var imri1 = document.getElementById('txtIMEI1');
+                var msis1 = document.getElementById('txtPhoneNumber1');
+                var imri2 = document.getElementById('txtIMEI2');
+                var msis2 = document.getElementById('txtPhoneNumber2');
+
+                if (imri1.value == "") {
+                    swal('Invalid IMEI 1');
+                    return false;
+                }
+                if (imri1.value.length != 15) {
+                    swal('Invalid IMEI 1');
+                    return false;
+                }
+                if (msis1.value == "") {
+                    swal('Missing Mobile Number 1');
+                    return false;
+                }
+                if (msis1.value.length != 12) {
+                    swal('Invalid Mobile Number 1');
+                    return false;
+                }
+                if ((msis1.value.startsWith('243')) == false) {
+                    swal('Invalid <> 243xxxxxxx');
+                    return false;
+                }
+
+                if (imri2.value == "") {
+                    swal('Invalid IMEI 2');
+                    return false;
+                }
+                if (imri2.value.length != 15) {
+                    swal('Invalid IMEI 2');
+                    return false;
+                }
+                if (msis2.value == "") {
+                    swal('Missing Mobile Number 2');
+                    return false;
+                }
+                if (msis2.value.length != 12) {
+                    swal('Invalid Mobile Number 2');
+                    return false;
+                }
+                if ((msis2.value.startsWith('243')) == false) {
+                    swal('Invalid <> 243xxxxxxx');
+                    return false;
+                }
+                swal({
+                    text: "Please wait.",
+                    button: false
+                });
+
+                var result = PageMethods.RegisterDualSim(imri1.value, msis1.value, imri2.value, msis2.value, function (response) {
+                    swal(response);
+                    imri1.value = '';
+                    imri2.value = '243';
+                    msis1.value = '';
+                    msis2.value = '243';
+                    swal.close();
+
+                });
+
+            }
+        }
+    </script>
+
+</head>
+<body>
+    <form method="post" action="./Services-Register-Dual-SIM.aspx" id="form1">
+        <div class="aspNetHidden">
+            <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+            <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+            <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="TyXpkJvsqp9T7NRklCVJbq9EGjjy4jHGR3xw2WQELX1f8zM3m3Y8tzHXeybbqfazTDNRJnCMCP6euuGMhjn33BZGAacFARS1yqzvCGlJwf+wVRk+" />
+        </div>
+
+        <script type="text/javascript">
+            //<![CDATA[
+            var theForm = document.forms['form1'];
+            if (!theForm) {
+                theForm = document.form1;
+            }
+            function __doPostBack(eventTarget, eventArgument) {
+                if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+                    theForm.__EVENTTARGET.value = eventTarget;
+                    theForm.__EVENTARGUMENT.value = eventArgument;
+                    theForm.submit();
+                }
+            }
+            //]]>
+        </script>
+
+
+        <script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZLXkDC82qj8bqDc7RrbGm4hZCkFTZN0ZF8Fg07u6BWlbNZdgIw2&amp;t=637290850998988531" type="text/javascript"></script>
+
+
+        <script src="/ScriptResource.axd?d=D9drwtSJ4hBA6O8UhT6CQv7MAoI98VZz5zoH_RWIv8rdJv2ydCIYYZG-77LijQhvJwOxDtT0x4XcLyQVAUckMH5jHUxDFAsSMNacuNjq_HiE2SNEk-JBXFnEd4hViOUA31zpysiwfcrD7w_y4e0i4YTyPZ81&amp;t=2a797f5c" type="text/javascript"></script>
+        <script type="text/javascript">
+            //<![CDATA[
+            if (typeof (Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+            //]]>
+        </script>
+
+        <script src="/ScriptResource.axd?d=JnUc-DEDOM5KzzVKtsL1tTpmIr9mmg_bBuLUXq_v9zoO08LIqBiHXXPXTFeFvoXGsxCmTFUnGcpHgx1kW82voUuwuaO-TnZWgOWiIYlcIdKbBRDjNGw0MjRJyxwQhDXdFMJoeJ1hPF2twV2IQJu95FZgNNgRC8F321J9kHIAOIvch70c0&amp;t=2a797f5c" type="text/javascript"></script>
+        <script type="text/javascript">
+            //<![CDATA[
+            var PageMethods = function () {
+                PageMethods.initializeBase(this);
+                this._timeout = 0;
+                this._userContext = null;
+                this._succeeded = null;
+                this._failed = null;
+            }
+            PageMethods.prototype = {
+                _get_path: function () {
+                    var p = this.get_path();
+                    if (p) return p;
+                    else return PageMethods._staticInstance.get_path();
+                },
+                RegisterDualSim: function (IMEI, msisdn, IMEI2, msisdn2, succeededCallback, failedCallback, userContext) {
+                    /// <param name="IMEI" type="String">System.String</param>
+                    /// <param name="msisdn" type="String">System.String</param>
+                    /// <param name="IMEI2" type="String">System.String</param>
+                    /// <param name="msisdn2" type="String">System.String</param>
+                    /// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+                    /// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+                    /// <param name="userContext" optional="true" mayBeNull="true"></param>
+                    return this._invoke(this._get_path(), 'RegisterDualSim', false, { IMEI: IMEI, msisdn: msisdn, IMEI2: IMEI2, msisdn2: msisdn2 }, succeededCallback, failedCallback, userContext);
+                }
+            }
+            PageMethods.registerClass('PageMethods', Sys.Net.WebServiceProxy);
+            PageMethods._staticInstance = new PageMethods();
+            PageMethods.set_path = function (value) {
+                PageMethods._staticInstance.set_path(value);
+            }
+            PageMethods.get_path = function () {
+                /// <value type="String" mayBeNull="true">The service url.</value>
+                return PageMethods._staticInstance.get_path();
+            }
+            PageMethods.set_timeout = function (value) {
+                PageMethods._staticInstance.set_timeout(value);
+            }
+            PageMethods.get_timeout = function () {
+                /// <value type="Number">The service timeout.</value>
+                return PageMethods._staticInstance.get_timeout();
+            }
+            PageMethods.set_defaultUserContext = function (value) {
+                PageMethods._staticInstance.set_defaultUserContext(value);
+            }
+            PageMethods.get_defaultUserContext = function () {
+                /// <value mayBeNull="true">The service default user context.</value>
+                return PageMethods._staticInstance.get_defaultUserContext();
+            }
+            PageMethods.set_defaultSucceededCallback = function (value) {
+                PageMethods._staticInstance.set_defaultSucceededCallback(value);
+            }
+            PageMethods.get_defaultSucceededCallback = function () {
+                /// <value type="Function" mayBeNull="true">The service default succeeded callback.</value>
+                return PageMethods._staticInstance.get_defaultSucceededCallback();
+            }
+            PageMethods.set_defaultFailedCallback = function (value) {
+                PageMethods._staticInstance.set_defaultFailedCallback(value);
+            }
+            PageMethods.get_defaultFailedCallback = function () {
+                /// <value type="Function" mayBeNull="true">The service default failed callback.</value>
+                return PageMethods._staticInstance.get_defaultFailedCallback();
+            }
+            PageMethods.set_enableJsonp = function (value) { PageMethods._staticInstance.set_enableJsonp(value); }
+            PageMethods.get_enableJsonp = function () {
+                /// <value type="Boolean">Specifies whether the service supports JSONP for cross domain calling.</value>
+                return PageMethods._staticInstance.get_enableJsonp();
+            }
+            PageMethods.set_jsonpCallbackParameter = function (value) { PageMethods._staticInstance.set_jsonpCallbackParameter(value); }
+            PageMethods.get_jsonpCallbackParameter = function () {
+                /// <value type="String">Specifies the parameter name that contains the callback function name for a JSONP request.</value>
+                return PageMethods._staticInstance.get_jsonpCallbackParameter();
+            }
+            PageMethods.set_path("Services-Register-Dual-SIM.aspx");
+            PageMethods.RegisterDualSim = function (IMEI, msisdn, IMEI2, msisdn2, onSuccess, onFailed, userContext) {
+                /// <param name="IMEI" type="String">System.String</param>
+                /// <param name="msisdn" type="String">System.String</param>
+                /// <param name="IMEI2" type="String">System.String</param>
+                /// <param name="msisdn2" type="String">System.String</param>
+                /// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+                /// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+                /// <param name="userContext" optional="true" mayBeNull="true"></param>
+                PageMethods._staticInstance.RegisterDualSim(IMEI, msisdn, IMEI2, msisdn2, onSuccess, onFailed, userContext);
+            }
+            //]]>
+        </script>
+
+        <div class="aspNetHidden">
+
+            <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F1D78F49" />
+        </div>
+        <script type="text/javascript">
+            //<![CDATA[
+            Sys.WebForms.PageRequestManager._initialize('scrp', 'form1', [], [], [], 90, '');
+            //]]>
+        </script>
+
+        <!--[if lte IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+        <!-- header-area start -->
+        <header class="header-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2 col-md-2">
+                        <div class="header-left">
+                            <a href="/Default.aspx">
+                                <img src="img/logo.png" alt="logo" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="header-inner">
+                            <ul>
+                                <li><a href="/">Accueil </a></li>
+                                <li class="active"><a href="/Services.aspx">Services</a></li>
+                                <li><a href="/News.aspx">Actualit&eacute;s</a></li>
+                                <li><a href="/FAQ.aspx">FAQ</a></li>
+                                <li><a href="/Contacts.aspx">Contacts</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="header-right">
+                            <div class="row no-gutters">
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="header-right_a1">
+                                        <ul>
+                                            <li class='active'><a href='/Default.aspx?Language=2'>FR</a></li>
+                                            <li><a href='/Default.aspx?Language=1'>EN</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-8">
+                                    <div class="header-right_a2">
+                                        <a href="#">
+                                            <img src="img/sr1.png" alt="images not found" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- header-area end -->
+        <!-- mobileheader-area start -->
+        <div class="mobileheader-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+
+                        <nav class="navbar navbar-expand-lg navbar-light">
+                            <a class="navbar-brand" href="/Default.aspx">
+                                <img src="img/logo.png" alt="logo" />
+                            </a>
+                            <button class="hamburger hamburger--squeeze navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="hamburger-box">
+                                    <span class="hamburger-inner"></span>
+                                </span>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <ul class="navbar-nav mr-auto">
+                                </ul>
+                                <div class="main-menu-part">
+                                    <ul>
+                                        <li><a href="/">Accueil </a></li>
+                                        <li class="active"><a href="/Services.aspx">Services</a></li>
+                                        <li><a href="/News.aspx">Actualit&eacute;s</a></li>
+                                        <li><a href="/FAQ.aspx">FAQ</a></li>
+                                        <li><a href="/Contacts.aspx">Contacts</a></li>
+                                        <li><a href="/Default.aspx?LanguageID=2">FR</a></li>
+                                        <li><a href="/Default.aspx?LanguageID=1">EN</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- mobileheader-area end -->
+        <!-- svo-area start -->
+        <div class="svo-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="svo-part">
+                            <h2>Services</h2>
+                            <span></span>
+
+                            <a href="Login.aspx" style="display: none;">
+                                <img src="img/sr6.png" alt="icon" class="svo_img" />
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- svo-area end -->
+        <!-- vry-area start -->
+        <div class="vry-area">
+            <div class="container-full">
+                <div class="row no-gutters">
+                    <div class="col-md-3 col-lg-2">
+                        <div class="vry-left">
+                            <a href="verifier.aspx">
+                                <div class="vry-a2" style="background-color: #F0F0F0;">
+                                    <img src="img/VerifyIMEI.png" alt="images not found" />
+                                    <p>V&eacute;rifiez l'IMEI</p>
+                                </div>
+                            </a>
+                            <a href="Services-Verify-Multiple-IMEI.aspx" style='display: none;'>
+                                <div class="vry-a2">
+                                    <img src="img/VerifyMultiple.png" alt="images not found" />
+                                    <p>V&eacute;rifiez Plusieurs IMEI</p>
+                                </div>
+                            </a>
+                            <a href="Services-Register-Dual-SIM.aspx">
+                                <div class="vry-a1" style="background-color: #2675E7;">
+                                    <img src="img/VerifyMultiple_Selected.png" alt="images not found" />
+                                    <p>Enregistrez Double SIM</p>
+                                </div>
+                            </a>
+                            <a href="Services-Fees.aspx">
+                                <div class="vry-a2">
+                                    <img src="img/CheckRAMFees.png" alt="images not found" />
+                                    <p>V&eacute;rifiez les Frais du RAM</p>
+                                </div>
+                            </a>
+                            <a href="Services-Unblock-Phone.aspx" style='display: none;'>
+                                <div class="vry-a2">
+                                    <img src="img/UnblockPhone.png" alt="images not found" />
+                                    <p>D&eacute;bloquez l'Appareil</p>
+                                </div>
+                            </a>
+                            <a href="Services-Block-Phone.aspx" style='display: none;'>
+                                <div class="vry-a2">
+                                    <img src="img/BlockPhone.png" alt="images not found" />
+                                    <p>Bloquez l'Appareil</p>
+                                </div>
+                            </a>
+                            <div class="vry-a3">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-9 col-lg-10">
+                        <div class="vry-right">
+                            <div class="vry-b1 vry-f1">
+                                <p></p>
+
+
+                                <div class="vryvry-main-part">
+
+
+
+
+                                    <div class="radio_a1">
+                                        <label class="contan">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+
+                                    <div class="radio_a2">
+                                        <label class="contan">
+                                            <input type="checkbox">
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+
+                                    <div class="row no-gutters">
+                                        <div class="col-lg-10 col-md-10">
+                                            <div class="vrrys_part">
+                                                <div class="row no-gutters">
+                                                    <div class="col-lg-6 col-md-6">
+                                                        <input class="forminput" placeholder="SIM 1 Num&eacute;ro IMEI" maxlength="15" id="txtIMEI1" name="txtIMEI1" type="number" />
+                                                    </div>
+                                                    <div class="col-lg-6 col-md-6">
+                                                        <input class="forminput" placeholder="SIM 1 Num&eacute;ro de t&eacute;l&eacute;phone" id="txtPhoneNumber1" name="txtPhoneNumber1" type="tel" value="243" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2 col-md-2">
+                                            <div class="sim_part sim_part_i">
+                                                <i class="fas fa-arrow-left" aria-hidden="true"></i>
+                                                <p class="sim_part_pp">
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row no-gutters">
+                                        <div class="col-lg-5 col-md-5">
+                                            <input class="forminput" placeholder="SIM 2 Num&eacute;ro IMEI" max="15" id="txtIMEI2" name="txtIMEI2" type="number" />
+                                        </div>
+                                        <div class="col-lg-5 col-md-5">
+                                            <input class="forminput" placeholder="SIM 2 Num&eacute;ro de t&eacute;l&eacute;phone" id="txtPhoneNumber2" name="txtPhoneNumber2" type="tel" />
+                                        </div>
+                                        <div class="col-lg-2 col-md-2">
+                                            <button id="btnBlock" class="submit forminputbutton" type="button" onclick="return nothuman();">
+                                                <i class="fas fa-chevron-right" aria-hidden="true"></i>
+                                            </button>
+
+                                            <div class="checkbox-part" style="max-height: 33px;">
+                                                <div class="g-recaptcha" data-sitekey="6LfzPs4ZAAAAAFoY_fd7aZitijEbFWO8C5lDEsdW">
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                            <!-- degg_top-area start -->
+                            <div class="degg_top-area">
+                                <div class="container">
+                                    <div class="degg_top_b1">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="degg_top">
+                                                    <span class="degg_top1"></span>
+                                                    <p>
+                                                        Votre appareil peut avoir deux num&eacute;ros IMEI si c'est un double-SIM ; il est enregistr&eacute; deux fois sur le r&eacute;seau.
+                                                        <ul>
+                                                            <li>Un <span style="color: #2675e7;">Appareil double-SIM</span>, est un appareil qui a 2 num&eacute;ros IMEI. Ce qui veut dire que les deux cartes SIM du m&ecirc;me appareil peuvent &ecirc;tre connect&eacute;es au r&eacute;seau au m&ecirc;me moment. Vous devez enregistrer les deux IMEI sur cette page pour &eacute;viter de payer deux fois.</li>
+                                                            <li>Un <span style="color: #2675e7;">Appareil deux SIM</span>, est un appareil ayant un seul IMEI et deux SIM. Une seule carte SIM doit &ecirc;tre connect&eacute;e au r&eacute;seau &agrave; la fois. Ces appareils <span style="color: #2675e7;">N'ONT PAS</span> besoin d'enregistrer leur IMEI sur cette page puisqu'ils ne sont pas factur&eacute;s deux fois. .</li>
+                                                        </ul>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- degg_top-area end -->
+                            <!-- degg-area start -->
+                            <div class="degg-area">
+                                <div class="container">
+                                    <div class="degg-top">
+                                        <h2>Ne payez pas deux fois pour votre appareil double-SIM</h2>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-4">
+                                            <div class="degg-part_a1">
+                                                <h2>01</h2>
+                                                <span class="drg_spn"></span>
+                                                <p>
+                                                    Composez <span style="color: #2675e7;">*#06#</span> pour noter les IMEI de votre appareil
+                                                </p>
+                                                <img src="img/sr2.png" alt="images not found" />
+                                                <span class="drg_spns"></span>
+                                                <h5>
+                                                    IMEI est un num&eacute;ro unique attribu&eacute; &agrave; votre t&eacute;l&eacute;phone.
+                                                    Cet identifiant est utilis&eacute; lors du signalement du t&eacute;l&eacute;phone comme perdu ou vol&eacute;.
+                                                </h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-lg-4">
+                                            <div class="degg-part_a2">
+                                                <h2>02</h2>
+                                                <span class="drg_spn"></span>
+                                                <p>
+                                                    Indiquez les deux IMEI sur le champ ci-dessus
+                                                </p>
+                                                <img src="img/sr3.png" alt="images not found" />
+                                                <span class="drg_spns"></span>
+                                                <h5>Votre appareil mobile doit afficher deux IMEI. Saisissez les deux IMEI dans les champs ci-dessus. Si un IMEI s'affiche, vous n'avez pas besoin de vous inscrire</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-lg-4">
+                                            <div class="degg-part_a3">
+                                                <h2>03</h2>
+                                                <span class="drg_spn"></span>
+                                                <p>
+                                                    Indiquez le num&eacute;ro de t&eacute;l&eacute;phone de chaque IMEI
+                                                </p>
+                                                <img src="img/sr4.png" alt="images not found" />
+                                                <span class="drg_spns"></span>
+                                                <h5>V&eacute;rifiez que votre appareil est d'origine et obtenez des mises &agrave; jour du type d'appareil, de son statut, des frais de r&eacute;mun&eacute;ration et plus encore.</h5>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- degg-area end -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+        <!-- vry-area end -->
+        <!-- lfooter-area start -->
+
+        <footer class="footer-area">
+            <div class="container">
+                <div class="footer-top">
+                    <p style="display: none;">
+                        Hi there,  I am Alan. I am a
+                        <br>
+                        friendly, helpful bot working for<br>
+                        <span>RAM</span>  <i class="fas fa-times" aria-hidden="true"></i>
+                    </p>
+                    <a href="#" style="display: none;">
+                        <img src="img/sr5.png" alt="icon" />
+                    </a>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="footer-a1">
+                            <a href="#">
+                                <img src="img/logo2.png" alt="logo" />
+                            </a>
+                            <h3>Suivez-nous</h3>
+                            <ul>
+                                <li><a href="https://www.facebook.com/ramrdcongo/" rel="noreferrer noopener" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+                                <li><a href="https://twitter.com/ramrdcongo" rel="noreferrer noopener" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="https://instagram.com/ramrdcongo?igshid=1ckdwosth1ead" rel="noreferrer noopener" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="footer-a2">
+                            <h3>Liens Rapides</h3>
+                            <ul>
+                                <li><a href="/Default.aspx">À propos RAM</a></li>
+                                <li><a href="/Services.aspx">Services</a></li>
+                                <li><a href="/FAQ.aspx">FAQ</a></li>
+                                <li><a href="/Contacts.aspx">Contacts</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="footer-a3">
+                            <h3>Actualit&eacute;s</h3>
+                            <p><br><span><a target='_blank' rel="noreferrer noopener" href='https://web.facebook.com/permalink.php?id=1201406069985259&story_fbid=3093105510815296&_rdc=1&_rdr'><font color='white'>RDC : le registre d’Appareils mobiles est là !</font></a></span></p><p><br><span><a target='_blank' href='https://www.youtube.com/embed/jighVW83YSI'><font color='white'>FACE À FACE Augustin Kibasa Maliba</font></a></span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- lfooter-area end -->
+        <!-- Main jQuery -->
+        <script type="text/javascript" src="../jquery/jquery/jquery-3.7.1.min.js"></script>
+
+        <!-- Bootstrap Propper jQuery -->
+        <script src="js/popper.js"></script>
+
+        <!-- Bootstrap jQuery -->
+        <script type="text/javascript" src="../bootstrap/bootstrap/js/bootstrap.min.js"></script>
+
+        <!-- Fontawesome Script -->
+        <script src="https://kit.fontawesome.com/7749c9f08a.js"></script>
+
+        <!-- Custom jQuery -->
+        <script src="js/scripts.js"></script>
+
+        <script src="js/ziehharmonika.js"></script>
+
+        <!-- Scroll-Top button -->
+        <a href="#" class="scrolltotop"><i class="fas fa-angle-up"></i></a>
+
+
+
+    </form>
+</body>
+</html>

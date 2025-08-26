@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359976090182146",
+"msisdn":"243823734874",
+"primary":false},{
+"imei":"359977090182144",
+"msisdn":"243999479451",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35997709018214  MSISDN : 243999479451  IMSI: 630020973741863","accountResponse":{"imei":"35997709018214","imsi":"630020973741863","msisdn":"243999479451","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung SM-A605G/DS","imeiQuantitySupport":0}}

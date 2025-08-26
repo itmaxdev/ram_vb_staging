@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"866138052628428",
+"msisdn":"243998004444",
+"primary":false},{
+"imei":"866138052656643",
+"msisdn":"243849998877",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86613805265664  MSISDN : 243849998877  IMSI: 630860116915276","accountResponse":{"imei":"86613805265664","imsi":"630860116915276","msisdn":"243849998877","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HUAWEI","model":"BAL-AL00","imeiQuantitySupport":2}}

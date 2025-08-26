@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358516090134415",
+"msisdn":"243854249904",
+"primary":true},{
+"imei":"358516090134423",
+"msisdn":"243904355790",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35851609013441  MSISDN : 243854249904  IMSI: 630860135634333","accountResponse":{"imei":"35851609013441","imsi":"630860135634333","msisdn":"243854249904","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"X-TIGI","model":"X-TIGI V33","imeiQuantitySupport":0}}

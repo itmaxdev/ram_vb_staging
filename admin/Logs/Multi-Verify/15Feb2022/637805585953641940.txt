@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356180978741460",
+"msisdn":"243854729629",
+"primary":true},{
+"imei":"356180978741478",
+"msisdn":"243831108890",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35618097874146  MSISDN : 243854729629  IMSI: 630860114562601","accountResponse":{"imei":"35618097874146","imsi":"630860114562601","msisdn":"243854729629","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"POP 5P","imeiQuantitySupport":2}}

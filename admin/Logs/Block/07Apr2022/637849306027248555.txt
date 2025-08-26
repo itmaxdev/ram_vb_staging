@@ -1,0 +1,7 @@
+{
+"imei":"35330611218354",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"Olivier.Kande@bensizwe.com 06/04/2022"}{"errorCode":611,"errorMessage":"I/O error on POST request for \"http://172.30.101.4:8088/devices-status\": No route to host (Host unreachable); nested exception is java.net.NoRouteToHostException: No route to host (Host unreachable)","errors":[]}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355033653712119",
+"msisdn":"243810033294",
+"primary":true},{
+"imei":"355033653925125",
+"msisdn":"243898000301",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35503365371211  MSISDN : 243810033294  IMSI: 630010446609635","accountResponse":{"imei":"35503365371211","imsi":"630010446609635","msisdn":"243810033294","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Apple","model":"Apple iPhone 13 Pro (A2639)","imeiQuantitySupport":2}}

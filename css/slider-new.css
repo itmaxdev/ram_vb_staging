@@ -1,0 +1,246 @@
+﻿
+
+
+
+@keyframes float {
+    0% {
+        /*box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);*/
+        transform: translatey(0px);
+    }
+
+    50% {
+        /*box-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);*/
+        transform: translatey(-40px);
+    }
+
+    100% {
+        /*box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);*/
+        transform: translatey(0px);
+    }
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 0.15
+    }
+
+    25% {
+        opacity: 0.25
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    75% {
+        opacity: 0.75
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 0.15
+    }
+
+    25% {
+        opacity: 0.25
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    75% {
+        opacity: 0.75
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 0.15
+    }
+
+    25% {
+        opacity: 0.25
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    75% {
+        opacity: 0.75
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 0.15
+    }
+
+    25% {
+        opacity: 0.25
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    75% {
+        opacity: 0.75
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 0.15
+    }
+
+    25% {
+        opacity: 0.25
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    75% {
+        opacity: 0.75
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+    .avatar {
+        width: 20px;
+        height: 20px;
+        margin-top: -305px;
+        align-content: center;
+        /*box-sizing: border-box;*/
+        /*border: 5px white solid;*/
+        /*border-radius: 50%;*/
+        overflow: hidden;
+        /*box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);*/
+        transform: translatey(0px);
+        animation: float 3s ease-in-out infinite;
+        animation: fadeIn ease 2s;
+        -webkit-animation: fadeIn ease 2s;
+        -moz-animation: fadeIn ease 2s;
+        -o-animation: fadeIn ease 2s;
+        -ms-animation: fadeIn ease 2s;
+    }
+
+    .avatar2 {
+        width: 20px;
+        height: 20px;
+        float: right; /*
+    margin-top: -305px !important;*/
+        /*box-sizing: border-box;*/
+        /*border: 5px white solid;*/
+        /*border-radius: 50%;*/
+        overflow: hidden;
+        /*box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);*/
+        transform: translatey(0px);
+        animation: float 3s ease-in-out infinite;
+        animation: fadeIn ease 2s;
+        -webkit-animation: fadeIn ease 2s;
+        -moz-animation: fadeIn ease 2s;
+        -o-animation: fadeIn ease 2s;
+        -ms-animation: fadeIn ease 2s;
+    }
+
+    .avatar3 {
+        width: 137px;
+        height: 95px;
+        float: right;
+        margin-right: -50px;
+        margin-top: 160px;
+        /*box-sizing: border-box;*/
+        /*border: 5px white solid;*/
+        /*border-radius: 50%;*/
+        overflow: hidden;
+        /*box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);*/
+        transform: translatey(0px);
+        animation: float 2s ease-in-out infinite;
+        animation: fadeIn ease 2s;
+        -webkit-animation: fadeIn ease 2s;
+        -moz-animation: fadeIn ease 2s;
+        -o-animation: fadeIn ease 2s;
+        -ms-animation: fadeIn ease 2s;
+    }
+
+    .avatar4 {
+        width: 137px;
+        height: 95px;
+        margin-top: -60px;
+        /*box-sizing: border-box;*/
+        /*border: 5px white solid;*/
+        /*border-radius: 50%;*/
+        overflow: hidden;
+        /*box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);*/
+        transform: translatey(0px);
+        animation: float 5s ease-in-out infinite;
+        animation: fadeIn ease 2s;
+        -webkit-animation: fadeIn ease 2s;
+        -moz-animation: fadeIn ease 2s;
+        -o-animation: fadeIn ease 2s;
+        -ms-animation: fadeIn ease 2s;
+    }
+
+    .avatar5 {
+        width: 137px;
+        height: 95px;
+        margin-top: 150px;
+        /*box-sizing: border-box;*/
+        /*border: 5px white solid;*/
+        /*border-radius: 50%;*/
+        overflow: hidden;
+        /*box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);*/
+        transform: translatey(0px);
+        animation: float 8s ease-in-out infinite;
+        animation: fadeIn ease 2s;
+        -webkit-animation: fadeIn ease 2s;
+        -moz-animation: fadeIn ease 2s;
+        -o-animation: fadeIn ease 2s;
+        -ms-animation: fadeIn ease 2s;
+    }
+
+    .content {
+        width: 100%;
+        max-width: 600px;
+        padding: 20px 40px;
+        /*box-sizing: border-box;*/
+        text-align: center;
+    }

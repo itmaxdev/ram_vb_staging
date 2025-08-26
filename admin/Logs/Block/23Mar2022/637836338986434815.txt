@@ -1,0 +1,7 @@
+{
+"imei":"354889103006746",
+"msisdn":"243896349197",
+"statusId":"3",
+"operator":"other",
+"user":"kra@5c-energy-rdc.com",
+"reason":"device perdu"}{"devices":[{"imei":"35488910300674","imsi":"630860140682429"}],"statusId":"3"}

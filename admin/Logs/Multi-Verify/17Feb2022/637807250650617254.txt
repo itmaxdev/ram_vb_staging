@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356710975872635",
+"msisdn":"2430897208999",
+"primary":true},{
+"imei":"356710975872643",
+"msisdn":"2430975535555",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35671097587263  MSISDN : 243897208999  IMSI: 630860115240515","accountResponse":{"imei":"35671097587263","imsi":"630860115240515","msisdn":"243897208999","operator":"orange","modelType":"2G","counterfeit":false,"roaming":false,"brand":"kgtel","model":"K2171","imeiQuantitySupport":2}}

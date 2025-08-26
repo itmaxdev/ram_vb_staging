@@ -1,0 +1,7 @@
+{
+"imei":"35742104249950",
+"msisdn":"243998891292",
+"statusId":"3",
+"operator":"other",
+"user":"superuser@ram.cd",
+"reason":"bloccccccc"}{"devices":[{"imei":"35742104249950","imsi":"630020966672308"}],"statusId":"3"}

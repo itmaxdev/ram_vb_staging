@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356194100078402",
+"msisdn":"243817003707",
+"primary":true},{
+"imei":"356195100078409",
+"msisdn":"243829999267",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35619410007840  MSISDN : 243817003707  IMSI: 630010419712652","accountResponse":{"imei":"35619410007840","imsi":"630010419712652","msisdn":"243817003707","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A60","imeiQuantitySupport":2}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"860677048867117",
+"msisdn":"243997023479",
+"primary":true},{
+"imei":"860677048867109",
+"msisdn":"243854353402",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86067704886711  MSISDN : 243997023479  IMSI: 630860135545374","accountResponse":{"imei":"86067704886711","imsi":"630860135545374","msisdn":"243997023479","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"OPPO","model":"PBBM30","imeiQuantitySupport":2}}

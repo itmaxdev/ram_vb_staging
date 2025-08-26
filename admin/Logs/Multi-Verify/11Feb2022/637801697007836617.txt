@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"864297040109552",
+"msisdn":"243822388274",
+"primary":false},{
+"imei":"864297040109560",
+"msisdn":"243973689864",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86429704010956  MSISDN : 243973689864  IMSI: 630020952748638","accountResponse":{"imei":"86429704010956","imsi":"630020952748638","msisdn":"243973689864","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"MI","model":"Redmi Note6 Pro","imeiQuantitySupport":2}}

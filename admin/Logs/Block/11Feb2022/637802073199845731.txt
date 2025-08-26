@@ -1,0 +1,5 @@
+{
+"imei":"35592069805836",
+"msisdn":"244924246878",
+"statusId":"3",
+"operator":"orange"}{"errorCode":601,"errorMessage":"Operator sent 'orange' does not match the msisdn’s operator 'vodacom' ","errors":[]}

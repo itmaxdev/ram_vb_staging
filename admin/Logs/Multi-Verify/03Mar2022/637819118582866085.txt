@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358135079715977",
+"msisdn":"243899464742",
+"primary":true},{
+"imei":"358135079715993",
+"msisdn":"243813874729",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35813507971597  MSISDN : 243899464742  IMSI: 630860167350790","accountResponse":{"imei":"35813507971597","imsi":"630860167350790","msisdn":"243899464742","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"ALCATEL","model":"ALCATEL PIXI 4 (4) 4034N","imeiQuantitySupport":0}}

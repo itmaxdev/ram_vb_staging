@@ -1,0 +1,12 @@
+Exceptioin:System.ArgumentException: Keyword not supported: 'trust server certificate'.
+   at System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Initialize(IDataServices dataServices, Object connection)
+   at System.Data.Linq.DataContext.Init(Object connection, MappingSource mapping)
+   at Ram.cd.DbRamDataContext..ctor() in C:\Users\user\OneDrive - itmaxglobal.com\Desktop\Fadi-ITMax\Ram.cd\ram\Ram.cd\DbRam.designer.vb:line 73
+   at Ram.cd.SiteFooter.LoadNews() in C:\Users\user\OneDrive - itmaxglobal.com\Desktop\Fadi-ITMax\Ram.cd\ram\Ram.cd\controls\SiteFooter.ascx.vb:line 37

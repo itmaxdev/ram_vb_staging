@@ -1,0 +1,7 @@
+{
+"imei":"351006748131838",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"rachel.mutombo@orange.com 5 mai 2022 "}{"devices":[{"imei":"35100674813183","imsi":"630010407317849"}],"statusId":"3"}

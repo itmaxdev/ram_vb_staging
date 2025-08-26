@@ -1,0 +1,2 @@
+Exceptioin:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Ram.cd.SiteContent.Authenticate() in C:\Work\RAM\Ram.cd\Functions\SiteContent.vb:line 35

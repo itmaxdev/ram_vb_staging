@@ -1,0 +1,7 @@
+{
+"imei":"353098117727260",
+"operator":"orange",
+"msisdn":"",
+"statusId":"0",
+"user":"sephora.n@ram.cd",
+"reason":"Test"}{"devices":[{"imei":"35309811772726","imsi":"630860155675142"}],"statusId":"0"}

@@ -1,0 +1,11 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352631110372279",
+"msisdn":"243902818312",
+"primary":true},{
+"imei":"352632110372277",
+"msisdn":"243993366207",
+"primary":false}]}<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358495586233462",
+"msisdn":"243978662263",
+"primary":true},{
+"imei":"358495586233470",
+"msisdn":"243853623331",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35849558623346  MSISDN : 243978662263  IMSI: 630020955607445","accountResponse":{"imei":"35849558623346","imsi":"630020955607445","msisdn":"243978662263","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"HOT 11 Play","imeiQuantitySupport":3}}

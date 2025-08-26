@@ -1,0 +1,7 @@
+{
+"imei":"35337011278789",
+"msisdn":"",
+"statusId":"3",
+"operator":"orange",
+"user":"erik@euphoria.systems",
+"reason":"blocageee"}{"devices":[{"imei":"35337011278789","imsi":"630860157470022"}],"statusId":"3"}

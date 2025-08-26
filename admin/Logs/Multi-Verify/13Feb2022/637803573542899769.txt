@@ -1,0 +1,11 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358969106153830",
+"msisdn":"243904597647",
+"primary":true},{
+"imei":"358970106153838",
+"msisdn":"243844711617",
+"primary":false}]}<html><body><h1>503 Service Unavailable</h1>
+No server is available to handle this request.
+</body></html>

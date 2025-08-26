@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358721106436404",
+"msisdn":"2430971210002",
+"primary":false},{
+"imei":"358721106436412",
+"msisdn":"2430895906481",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35872110643641  MSISDN : 243895906481  IMSI: 630860136088979","accountResponse":{"imei":"35872110643641","imsi":"630860136088979","msisdn":"243895906481","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON 12 Air","imeiQuantitySupport":2}}

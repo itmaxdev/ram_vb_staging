@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"869197057993879",
+"msisdn":"243972266586",
+"primary":true},{
+"imei":"869197058064480",
+"msisdn":"243810332862",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86919705799387  MSISDN : 243972266586  IMSI: 630020981730549","accountResponse":{"imei":"86919705799387","imsi":"630020981730549","msisdn":"243972266586","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HONOR","model":"AKA-AL10","imeiQuantitySupport":2}}

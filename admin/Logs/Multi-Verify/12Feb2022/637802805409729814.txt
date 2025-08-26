@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"860962046401048",
+"msisdn":"243993161253",
+"primary":true},{
+"imei":"860962046431052",
+"msisdn":"243898751133",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86096204640104  MSISDN : 243993161253  IMSI: 630020983065062","accountResponse":{"imei":"86096204640104","imsi":"630020983065062","msisdn":"243993161253","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HUAWEI","model":"HUAWEI P smart 2019","imeiQuantitySupport":2}}

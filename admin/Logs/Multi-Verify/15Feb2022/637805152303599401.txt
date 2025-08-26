@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354495211610765",
+"msisdn":"243816055086",
+"primary":false},{
+"imei":"354495211610773",
+"msisdn":"243848402779",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35449521161077  MSISDN : 243848402779  IMSI: 630860150041423","accountResponse":{"imei":"35449521161077","imsi":"630860150041423","msisdn":"243848402779","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"TECNO SPARK Go 2021","imeiQuantitySupport":3}}

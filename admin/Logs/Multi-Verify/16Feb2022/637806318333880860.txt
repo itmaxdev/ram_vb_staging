@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356193110859009",
+"msisdn":"243995880782",
+"primary":true},{
+"imei":"356193110859017",
+"msisdn":"243828140474",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35619311085900  MSISDN : 243995880782  IMSI: 630020979573762","accountResponse":{"imei":"35619311085900","imsi":"630020979573762","msisdn":"243995880782","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"DOOGEE","model":"DOOGEE X95","imeiQuantitySupport":2}}

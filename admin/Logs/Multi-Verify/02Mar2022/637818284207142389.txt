@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"868329054632298",
+"msisdn":"243910079290",
+"primary":true},{
+"imei":"868329054632306",
+"msisdn":"243995118886",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86832905463229  MSISDN : 243910079290  IMSI: 630900401853033","accountResponse":{"imei":"86832905463229","imsi":"630900401853033","msisdn":"243910079290","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Redmi","model":"Redmi Note 10 Pro","imeiQuantitySupport":2}}

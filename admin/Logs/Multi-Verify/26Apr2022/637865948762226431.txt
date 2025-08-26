@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354900110002766",
+"msisdn":"243898633907",
+"primary":true},{
+"imei":"354901110002764",
+"msisdn":"243819274936",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35490011000276  MSISDN : 243898633907  IMSI: 630860148288060","accountResponse":{"imei":"35490011000276","imsi":"630860148288060","msisdn":"243898633907","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy S20 Ultra","imeiQuantitySupport":2}}

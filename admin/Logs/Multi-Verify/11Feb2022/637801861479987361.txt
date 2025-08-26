@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358211028195676",
+"msisdn":"243976896004",
+"primary":true},{
+"imei":"358211028195684",
+"msisdn":"243825165310",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35821102819567  MSISDN : 243976896004  IMSI: 630020960306262","accountResponse":{"imei":"35821102819567","imsi":"630020960306262","msisdn":"243976896004","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Not Known","model":"EM730J","imeiQuantitySupport":0}}

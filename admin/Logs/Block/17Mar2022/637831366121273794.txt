@@ -1,0 +1,7 @@
+{
+"imei":"356071072746887",
+"msisdn":"",
+"statusId":"3",
+"operator":"orange",
+"user":"superuser@ram.cd",
+"reason":"vodacom"}{"devices":[{"imei":"35607107274688","imsi":"630010501185924"}],"statusId":"3"}

@@ -1,0 +1,15 @@
+https://ap-gateway.mastercard.com/api/rest/version/57/merchant/ARPTC/order/869083037835465/transaction/637807176903890597{
+    "apiOperation": "PAY",
+    "order": {
+        "amount": "3.49",
+        "currency": "USD",
+        "description": "RAM.CD",
+        "reference": 637807176903890597
+    },
+    "transaction": {
+        "reference": 637807176903890597
+    },
+    "sourceOfFunds": { }
+        }
+    }
+}{"error":{"cause":"INVALID_REQUEST","explanation":"Value '2' is invalid. Length is 1 characters, but must be at least 9","field":"sourceOfFunds.provided.card.number","validationType":"INVALID"},"result":"ERROR"}

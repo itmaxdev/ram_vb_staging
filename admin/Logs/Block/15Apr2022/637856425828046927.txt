@@ -1,0 +1,7 @@
+{
+"imei":"352691185680733",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"joelle@5C-energy-rdc.com",
+"reason":"rachel.mutombo@orange.com 14 avril 2022 "}{"devices":[{"imei":"35269118568073","imsi":"630020757415321"}],"statusId":"3"}

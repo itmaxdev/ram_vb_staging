@@ -1,0 +1,7 @@
+{
+"imei":"353098117727260",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"TEST BLOCAGE / DAN"}{"timestamp":"2022-05-18T15:53:33.940+0000","status":500,"error":"Internal Server Error","message":"JWT strings must contain exactly 2 period characters. Found: 0","path":"/bcm-service/devices/status"}

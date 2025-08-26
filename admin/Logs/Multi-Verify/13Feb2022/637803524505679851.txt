@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354542105032612",
+"msisdn":"243978382823",
+"primary":true},{
+"imei":"354542105032620",
+"msisdn":"243902015207",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35454210503261  MSISDN : 243978382823  IMSI: 630020960946216","accountResponse":{"imei":"35454210503261","imsi":"630020960946216","msisdn":"243978382823","operator":"vodacom","modelType":"2G","counterfeit":false,"roaming":false,"brand":"wintel","model":"Big Bravo","imeiQuantitySupport":0}}

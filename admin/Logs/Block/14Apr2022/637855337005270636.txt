@@ -1,0 +1,7 @@
+{
+"imei":"353885287086869",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"Cedrick.EKOFO@orange.com 13 April 2022"}{"devices":[{"imei":"35388528708686","imsi":"630010448767522"}],"statusId":"3"}

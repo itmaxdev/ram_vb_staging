@@ -1,0 +1,7 @@
+{
+"imei":"868697054408566",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"kra@5c-energy-rdc.com",
+"reason":"telephone vole "}{"devices":[{"imei":"86869705440856","imsi":"630010509292658"}],"statusId":"3"}

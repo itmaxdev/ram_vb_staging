@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359756900948583",
+"msisdn":"243999999231",
+"primary":true},{
+"imei":"359756900948591",
+"msisdn":"243819999231",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35975690094858  MSISDN : 243999999231  IMSI: 630020983758838","accountResponse":{"imei":"35975690094858","imsi":"630020983758838","msisdn":"243999999231","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"PHANTOM X","imeiQuantitySupport":2}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359951381710129",
+"msisdn":"243854770748",
+"primary":true},{
+"imei":"359951381710137",
+"msisdn":"243854899700",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35995138171012  MSISDN : 243854770748  IMSI: 630860082543430","accountResponse":{"imei":"35995138171012","imsi":"630860082543430","msisdn":"243854770748","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"POVA Neo","imeiQuantitySupport":3}}

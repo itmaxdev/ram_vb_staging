@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"357374080371519",
+"msisdn":"243892118993",
+"primary":true},{
+"imei":"357374080371527",
+"msisdn":"243912871418",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35737408037151  MSISDN : 243892118993  IMSI: 630860120253560","accountResponse":{"imei":"35737408037151","imsi":"630860120253560","msisdn":"243892118993","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"BLACKVIEW","model":"BLACKVIEW  BV6000","imeiQuantitySupport":0}}

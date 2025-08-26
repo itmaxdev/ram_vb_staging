@@ -1,0 +1,7 @@
+{
+"imei":"352232112355626",
+"operator":"orange",
+"msisdn":"",
+"statusId":"0",
+"user":"joelle@5C-energy-rdc.com",
+"reason":"Olivier.Kande@bensizwe.com"}{"devices":[{"imei":"35223211235562","imsi":"630010446794780"}],"statusId":"0"}

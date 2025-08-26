@@ -1,0 +1,7 @@
+{
+"imei":"351278280017374",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"joelle@5C-energy-rdc.com",
+"reason":"Olivier.Kande@bensizwe.com le 22/04/2022"}{"devices":[{"imei":"35127828001737","imsi":"630860160622819"}],"statusId":"3"}

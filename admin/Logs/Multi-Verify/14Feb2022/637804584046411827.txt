@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354356010848370",
+"msisdn":"243897941284",
+"primary":true},{
+"imei":"354356010848388",
+"msisdn":"243812297570",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35435601084837  MSISDN : 243897941284  IMSI: 630860159802275","accountResponse":{"imei":"35435601084837","imsi":"630860159802275","msisdn":"243897941284","operator":"airtel","modelType":"2G","counterfeit":false,"roaming":false,"brand":"Not Known","model":"B922","imeiQuantitySupport":0}}

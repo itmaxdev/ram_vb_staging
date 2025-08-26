@@ -1,0 +1,230 @@
+*{margin: 0;padding: 0;outline: 0;}
+body{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+.mobile-logo img{
+    cursor: pointer;
+}
+.logo{
+    cursor: pointer;
+}
+.container{
+    width:80%;
+    margin:0 auto;
+}
+.layout{
+    height: 100%;
+    display: grid;
+    grid-template-columns:10.5fr 2.5fr;
+}
+/* form section */
+.form-section input[type=number]{
+    padding: 6px 20px 6px 6px;
+    border: 1px solid #1e5db8;
+    font-size: 23px;
+    background-color: #E2FAF9;
+    border-radius: 3px;
+}
+input[type=button] {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: 130px;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #2E72B9;
+    background-color: #2E72B9;
+    color: white;
+    font-weight: bold;
+    outline: 0;
+    transition: color 1s;
+    border-radius: 5px;
+}
+    input[type=button]:hover {
+        background-color: #2E72B9;
+        color: white;
+    }
+    input[type=button]:focus {
+        border: 1px solid red;
+    }
+.form-section input[type=number]:focus{
+    color: blue;
+    border: 1.1px solid blue;
+}
+.form-section a{
+    color: #2E72B9;
+}
+.form-section a:hover{
+    color: blue;
+}
+.footer{
+    position: absolute;
+    bottom: 15px;
+    display: grid;
+    grid-template-columns: 40px 40px 40px 40px;
+    grid-gap: 0px 10px;
+
+}
+.footer>div {
+    background: #1e5db8;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.webaddress{
+    grid-column: 1/5;
+    background-color: #1e5eb800 !important;
+}
+.webaddress p {
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 11px;
+    font-size: 15px;
+}
+.footer i{
+    color: white;
+    font-size:15px;
+    transition: font-size 0.4s;
+}
+.footer i:hover{
+    font-size:20px;
+}
+/* left column style */
+.left-layout{
+    background-image: url('images/background-image-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.left-layout img{
+    width: 40vmin;
+    margin-top: 35px;
+    margin-bottom: 3vh;
+}
+.left-layout h1{
+    color: #2E72B9;
+    font-size: 6vmin;
+}
+.left-layout hr {
+    width: 10%;
+    border: 2px solid #1e5db8;
+    margin-bottom: 8vh;
+}
+/* right column style  */
+.column-two-main{
+    display: grid;
+}
+.column-two-main>div{
+    height: 24.06vh;
+    width: 100%;
+    border: 1px solid white;
+}
+.column-two-main img{
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+/* shape design start*/
+.shape {
+    position: absolute;
+    top: 31%;
+    left: 0px;
+    width: 7vw;
+    height: 46vh;
+    background-color: #2E72B9;
+    border-radius: 0px 20px 20px 0px;
+}
+.mobile-logo{
+    display: none;
+}
+/* responsiveness */
+@media only screen and (max-width: 768px) {
+    .layout{
+        display: grid;
+        grid-template-columns:1fr;
+    }
+
+    .column-two-main{
+        display: grid;
+        grid-template-columns: 3fr 3fr 3fr 3fr;
+    }
+    .column-two-main>div {
+        height: 15vh;
+    }
+    .left-layout img {
+        width: 30vmin;
+        margin-top: 5px;
+        margin-bottom: 1vh;
+    }
+    .left-layout{
+        height: 84.5vh;
+    }
+    .footer {
+        position: absolute;
+        bottom: 17vh;
+    }
+    .shape {
+        top: 16%;
+    }
+    form{
+        margin-top: -20px;
+    }
+    .mobile-logo{
+        display: block;
+        position: absolute;
+        right: 20px;
+        top: 0;
+    }
+    .webaddress p {
+        font-size: 10px;
+        margin-left:45px;
+        margin-top:0;
+    }
+    .footer>div {
+        height: 20px;
+        width: 20px;
+    }
+    .footer i {
+        font-size: 10px;
+    }
+	.footer i:hover{
+		font-size:12px;
+	}
+    .footer {
+        grid-template-columns: 20px 20px 20px 20px;
+        grid-gap:0px 5px;
+    }
+  }
+  @media only screen and (max-width: 660px) {
+    .left-layout{
+        background-size: cover;
+        background-position: center;
+    }
+    .form-section input[type=number] {
+        padding: 6px 20px;
+        border: 1px solid #1e5db8;
+        font-size: 14px;
+        background-color: #E2FAF9;
+        border-radius: 3px;
+    }
+    .left-layout hr {
+        margin-bottom: 13vh;
+    }
+    input[type=button] {
+        box-sizing: border-box;
+        cursor: pointer;
+        width: 140px;
+        padding: 10px;
+        font-size: 18px;
+        border: 2px solid #2E72B9;
+        background-color: #2E72B9;
+        color: white;
+        font-weight: bold;
+        outline: 0;
+        transition: color 1s;
+        border-radius: 5px;
+    }
+  }

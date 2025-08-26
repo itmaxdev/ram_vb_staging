@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"864106038821351",
+"msisdn":"243815742403",
+"primary":false},{
+"imei":"864106038821344",
+"msisdn":"243852447718",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86410603882134  MSISDN : 243852447718  IMSI: 630860168100942","accountResponse":{"imei":"86410603882134","imsi":"630860168100942","msisdn":"243852447718","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"vivo","model":"vivo vivo Y66","imeiQuantitySupport":0}}

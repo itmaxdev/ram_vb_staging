@@ -1,0 +1,6 @@
+{
+"imei":"353370112787890",
+"statusId":"3",
+"operator":"africell",
+"user":"christian.k@5c-energy-rdc.com",
+"reason":"test"}{"errorCode":601,"errorMessage":"Operator sent 'africell' does not match the msisdn’s operator 'orange' ","errors":[]}

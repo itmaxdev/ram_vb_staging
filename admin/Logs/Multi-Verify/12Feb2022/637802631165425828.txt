@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"351977112113018",
+"msisdn":"243898333309",
+"primary":true},{
+"imei":"351977112113026",
+"msisdn":"243907253224",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35197711211301  MSISDN : 243898333309  IMSI: 630890119520873","accountResponse":{"imei":"35197711211301","imsi":"630890119520873","msisdn":"243898333309","operator":"africell","modelType":"2G","counterfeit":false,"roaming":false,"brand":"kgtel","model":"K301","imeiQuantitySupport":2}}

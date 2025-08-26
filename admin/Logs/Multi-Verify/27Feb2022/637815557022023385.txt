@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359546104714331",
+"msisdn":"2430894724972",
+"primary":false},{
+"imei":"359546104714349",
+"msisdn":"2430976399911",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35954610471434  MSISDN : 243976399911  IMSI: 630020978480677","accountResponse":{"imei":"35954610471434","imsi":"630020978480677","msisdn":"243976399911","operator":"vodacom","modelType":"2G","counterfeit":false,"roaming":false,"brand":"X-TIGI","model":"X-TIGI Q10","imeiQuantitySupport":2}}

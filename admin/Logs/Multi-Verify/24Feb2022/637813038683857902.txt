@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358535438774880",
+"msisdn":"243843179904",
+"primary":true},{
+"imei":"358535438774898",
+"msisdn":"243996853745",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35853543877488  MSISDN : 243843179904  IMSI: 630860167840082","accountResponse":{"imei":"35853543877488","imsi":"630860167840082","msisdn":"243843179904","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"HOT 10 play","imeiQuantitySupport":2}}

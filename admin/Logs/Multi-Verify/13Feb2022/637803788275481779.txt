@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"862885035946228",
+"msisdn":"243970550468",
+"primary":true},{
+"imei":"862885035946210",
+"msisdn":"243858374813",
+"primary":false}]}

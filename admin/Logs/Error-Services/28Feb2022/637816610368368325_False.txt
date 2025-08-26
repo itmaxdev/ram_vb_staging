@@ -1,0 +1,6 @@
+Exceptioin:System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at Ram.cd.AdminLogin.btnSubmit_Click(Object sender, EventArgs e) in C:\Work\RAM TEST\RAM\Ram.cd\AdminLogin.aspx.vb:line 44

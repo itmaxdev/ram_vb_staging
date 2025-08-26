@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355645104086627",
+"msisdn":"243819700457",
+"primary":true},{
+"imei":"355645104086635",
+"msisdn":"243824675744",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35564510408662  MSISDN : 243819700457  IMSI: 630010419344613","accountResponse":{"imei":"35564510408662","imsi":"630010419344613","msisdn":"243819700457","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"Pouvoir 3 Air","imeiQuantitySupport":2}}

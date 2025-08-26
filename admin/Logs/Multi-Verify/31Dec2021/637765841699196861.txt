@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"357202083101080",
+"msisdn":"243976167481",
+"primary":true},{
+"imei":"357202083101098",
+"msisdn":"243820411785",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35720208310108  MSISDN : 243976167481  IMSI: 630020953551339","accountResponse":{"imei":"35720208310108","imsi":"630020953551339","msisdn":"243976167481","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"WX4 Pro","imeiQuantitySupport":0}}

@@ -1,0 +1,5 @@
+{
+"imei":"35873179700752",
+"msisdn":"243816185397",
+"statusId":"3",
+"operator":"vodacom"}{"devices":[{"imei":"35873179700752","imsi":"630010413539571"}],"statusId":"3"}

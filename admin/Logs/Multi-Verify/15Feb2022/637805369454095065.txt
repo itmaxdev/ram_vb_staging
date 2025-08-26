@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356046101592064",
+"msisdn":"243819205028",
+"primary":false},{
+"imei":"356047101592062",
+"msisdn":"243993590809",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35604710159206  MSISDN : 243993590809  IMSI: 630020980184318","accountResponse":{"imei":"35604710159206","imsi":"630020980184318","msisdn":"243993590809","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy J6+","imeiQuantitySupport":2}}

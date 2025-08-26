@@ -1,0 +1,3 @@
+Exceptioin:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ram.cd.DbRamDataContext..ctor() in C:\Work\RAM\Ram.cd\DbRam.designer.vb:line 73
+   at Ram.cd.Services_Block_Phone.PlotLanguages() in C:\Work\RAM\Ram.cd\Services-Block-Phone.aspx.vb:line 104

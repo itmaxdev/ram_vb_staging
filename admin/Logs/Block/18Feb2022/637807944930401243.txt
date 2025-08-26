@@ -1,0 +1,6 @@
+{
+"imei":"012345678912345",
+"statusId":"3",
+"operator":"vodacom",
+"user":"erik@euphoria.systems",
+"reason":"Testing json"}{"errorCode":601,"errorMessage":"Validation error","errors":[],"fieldErrors":[{"path":"msisdn","error":"must not be empty"}]}

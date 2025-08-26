@@ -1,0 +1,5 @@
+{
+"imei":"867991051504993",
+"msisdn":"243822222837",
+"statusId":"3",
+"operator":"vodacom"}{"errorCode":611,"errorMessage":"I/O error on POST request for \"http://172.30.101.4:8088/devices-status\": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)","errors":[]}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"350725040307264",
+"msisdn":"243821242821",
+"primary":false},{
+"imei":"350725040307272",
+"msisdn":"243970958866",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35072504030727  MSISDN : 243970958866  IMSI: 630020973481612","accountResponse":{"imei":"35072504030727","imsi":"630020973481612","msisdn":"243970958866","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"TECNO SPARK 7P","imeiQuantitySupport":3}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354343092685128",
+"msisdn":"243903359790",
+"primary":true},{
+"imei":"354343092685136",
+"msisdn":"243972781120",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35434309268512  MSISDN : 243903359790  IMSI: 630900144943357","accountResponse":{"imei":"35434309268512","imsi":"630900144943357","msisdn":"243903359790","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"ASUS","model":"ASUS ZenFone4 Max ZC520KL","imeiQuantitySupport":0}}

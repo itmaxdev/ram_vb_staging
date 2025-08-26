@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358306101589868",
+"msisdn":"243997111545",
+"primary":true},{
+"imei":"358306101589876",
+"msisdn":"243844547744",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35830610158986  MSISDN : 243997111545  IMSI: 630020980860941","accountResponse":{"imei":"35830610158986","imsi":"630020980860941","msisdn":"243997111545","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"P33 Plus","imeiQuantitySupport":2}}

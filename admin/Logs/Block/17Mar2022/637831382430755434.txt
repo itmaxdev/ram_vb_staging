@@ -1,0 +1,7 @@
+{
+"imei":"356071072746887",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"superuser@ram.cd",
+"reason":"other walla mish other"}{"devices":[{"imei":"35607107274688","imsi":"630010501185924"}],"statusId":"3"}

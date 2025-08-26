@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358436070963248",
+"msisdn":"243823842168",
+"primary":true},{
+"imei":"358437070963246",
+"msisdn":"243995477890",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35843607096324  MSISDN : 243823842168  IMSI: 630010246106269","accountResponse":{"imei":"35843607096324","imsi":"630010246106269","msisdn":"243823842168","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung SM-G930FD","imeiQuantitySupport":0}}

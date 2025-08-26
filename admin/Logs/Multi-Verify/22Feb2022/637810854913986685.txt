@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"354137101308510",
+"msisdn":"243823825674",
+"primary":true},{
+"imei":"354137101308528",
+"msisdn":"243901426397",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35413710130851  MSISDN : 243823825674  IMSI: 630010443164876","accountResponse":{"imei":"35413710130851","imsi":"630010443164876","msisdn":"243823825674","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Motorola","model":"River  Moto G (7th Gen)","imeiQuantitySupport":2}}

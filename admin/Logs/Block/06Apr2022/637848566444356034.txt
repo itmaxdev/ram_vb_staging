@@ -1,0 +1,7 @@
+{
+"imei":"356943543548821",
+"msisdn":"243896309230",
+"statusId":"3",
+"operator":"other",
+"user":"joelle@5C-energy-rdc.com",
+"reason":"flora.biteo@bensizwe.com"}{"devices":[{"imei":"35694354354882","imsi":"630890129111210"}],"statusId":"3"}

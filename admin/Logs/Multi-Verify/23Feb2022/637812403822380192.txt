@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359734850476376",
+"msisdn":"243898364140",
+"primary":false},{
+"imei":"359734850476384",
+"msisdn":"243995098656",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35973485047638  MSISDN : 243995098656  IMSI: 630020962762799","accountResponse":{"imei":"35973485047638","imsi":"630020962762799","msisdn":"243995098656","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"POVA 2","imeiQuantitySupport":3}}

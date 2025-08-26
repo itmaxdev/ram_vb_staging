@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359471106529027",
+"msisdn":"243903724238",
+"primary":false},{
+"imei":"359472106529025",
+"msisdn":"243850896752",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35947210652902  MSISDN : 243850896752  IMSI: 630860157675221","accountResponse":{"imei":"35947210652902","imsi":"630860157675221","msisdn":"243850896752","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A01","imeiQuantitySupport":2}}

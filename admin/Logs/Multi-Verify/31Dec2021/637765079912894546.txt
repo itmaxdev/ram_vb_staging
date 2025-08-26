@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352631110372279",
+"msisdn":"243902818312",
+"primary":true},{
+"imei":"352632110372277",
+"msisdn":"243993366207",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35263111037227  MSISDN : 243902818312  IMSI: 630900400274291","accountResponse":{"imei":"35263111037227","imsi":"630900400274291","msisdn":"243902818312","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A71","imeiQuantitySupport":2}}

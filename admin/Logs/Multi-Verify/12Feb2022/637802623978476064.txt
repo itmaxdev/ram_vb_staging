@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"865367045295562",
+"msisdn":"243898373124",
+"primary":true},{
+"imei":"865367045295570",
+"msisdn":"243906505074",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86536704529556  MSISDN : 243898373124  IMSI: 630860119094861","accountResponse":{"imei":"86536704529556","imsi":"630860119094861","msisdn":"243898373124","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Redmi","model":"Redmi 7A","imeiQuantitySupport":2}}

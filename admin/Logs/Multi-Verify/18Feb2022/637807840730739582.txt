@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359951380944166",
+"msisdn":"243815665851",
+"primary":true},{
+"imei":"359951380944174",
+"msisdn":"243990281465",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35995138094416  MSISDN : 243815665851  IMSI: 630010440036570","accountResponse":{"imei":"35995138094416","imsi":"630010440036570","msisdn":"243815665851","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"POVA Neo","imeiQuantitySupport":3}}

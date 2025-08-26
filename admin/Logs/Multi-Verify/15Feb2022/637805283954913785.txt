@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355285114058918",
+"msisdn":"2430820259635",
+"primary":true},{
+"imei":"355285114058926",
+"msisdn":"2430991637789",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35528511405891  MSISDN : 243820259635  IMSI: 630010411536181","accountResponse":{"imei":"35528511405891","imsi":"630010411536181","msisdn":"243820259635","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"HOT 9","imeiQuantitySupport":2}}

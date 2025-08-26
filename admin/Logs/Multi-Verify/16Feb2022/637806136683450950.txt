@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"867051022185685",
+"msisdn":"243812869376",
+"primary":false},{
+"imei":"867051021626747",
+"msisdn":"243995558389",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86705102162674  MSISDN : 243995558389  IMSI: 630020943564617","accountResponse":{"imei":"86705102162674","imsi":"630020943564617","msisdn":"243995558389","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"honor","model":"G620S-UL00","imeiQuantitySupport":0}}

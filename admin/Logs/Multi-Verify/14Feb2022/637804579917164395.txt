@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355372118435951",
+"msisdn":"243999917959",
+"primary":true},{
+"imei":"355373118435959",
+"msisdn":"243899917959",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35537211843595  MSISDN : 243999917959  IMSI: 630020980150918","accountResponse":{"imei":"35537211843595","imsi":"630020980150918","msisdn":"243999917959","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A21s","imeiQuantitySupport":2}}

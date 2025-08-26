@@ -1,0 +1,9 @@
+{
+"imei":"356180977210749",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"Olivier.Kande@bensizwe.com le 06/04/2022"}<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>

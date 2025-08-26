@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352653572857266",
+"msisdn":"243820862244",
+"primary":false},{
+"imei":"352653572857274",
+"msisdn":"243976114285",
+"primary":false}]}{"errorCode":604,"errorMessage":"0 or multiple accounts were requested as the main account","errors":[]}

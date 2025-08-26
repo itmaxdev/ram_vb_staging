@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"351723302554086",
+"msisdn":"243971026311",
+"primary":true},{
+"imei":"355117862554089",
+"msisdn":"243990543522",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35172330255408  MSISDN : 243971026311  IMSI: 630020671609142","accountResponse":{"imei":"35172330255408","imsi":"630020671609142","msisdn":"243971026311","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A12","imeiQuantitySupport":2}}

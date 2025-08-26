@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355286105317297",
+"msisdn":"243830771265",
+"primary":false},{
+"imei":"355286105317305",
+"msisdn":"243992156093",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35528610531730  MSISDN : 243992156093  IMSI: 630020991043036","accountResponse":{"imei":"35528610531730","imsi":"630020991043036","msisdn":"243992156093","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"FAMOCO","model":"PX510","imeiQuantitySupport":2}}

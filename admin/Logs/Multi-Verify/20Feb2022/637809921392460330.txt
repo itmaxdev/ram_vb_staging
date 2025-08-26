@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353431131512824",
+"msisdn":"243898749580",
+"primary":true},{
+"imei":"355304221512822",
+"msisdn":"243995028635",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35343113151282  MSISDN : 243898749580  IMSI: 630860129864834","accountResponse":{"imei":"35343113151282","imsi":"630860129864834","msisdn":"243898749580","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A03s","imeiQuantitySupport":2}}

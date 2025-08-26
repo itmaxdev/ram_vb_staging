@@ -1,0 +1,3 @@
+https://bcm.ram.cd/bcm-service/devices/details?imei=357295094796971&msisdn=33643832962<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>

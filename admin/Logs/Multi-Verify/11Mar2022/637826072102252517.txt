@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"863846024104491",
+"msisdn":"243819046465",
+"primary":true},{
+"imei":"863846024104491",
+"msisdn":"243992495811",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86384602410449  MSISDN : 243819046465  IMSI: 630010403991237","accountResponse":{"imei":"86384602410449","imsi":"630010403991237","msisdn":"243819046465","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HUAWEI","model":"HUAWEI Mate2 HUAWEI G730-L072 HUAWEI Ascend P7 HUAWEI G7","imeiQuantitySupport":0}}

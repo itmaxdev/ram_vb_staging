@@ -1,0 +1,5 @@
+{
+"imei":"354889103006742",
+"operator":"airtel",
+"msisdn":"243896349197",
+"statusId":"0"}{"errorCode":601,"errorMessage":"Operator sent 'airtel' does not match the msisdn’s operator 'orange' ","errors":[]}

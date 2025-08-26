@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355813102380604",
+"msisdn":"243992696200",
+"primary":true},{
+"imei":"355813102380612",
+"msisdn":"243812937547",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35581310238060  MSISDN : 243992696200  IMSI: 630020992675341","accountResponse":{"imei":"35581310238060","imsi":"630020992675341","msisdn":"243992696200","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"Phantom 9","imeiQuantitySupport":2}}

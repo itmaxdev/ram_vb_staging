@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"867817047822464",
+"msisdn":"243974397005",
+"primary":true},{
+"imei":"867817047822472",
+"msisdn":"243841501517",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86781704782246  MSISDN : 243974397005  IMSI: 630020753297528","accountResponse":{"imei":"86781704782246","imsi":"630020753297528","msisdn":"243974397005","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HONOR","model":"BKK-AL00","imeiQuantitySupport":0}}

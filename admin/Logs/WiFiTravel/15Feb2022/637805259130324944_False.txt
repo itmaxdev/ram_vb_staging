@@ -1,0 +1,1 @@
+https://bcm.ram.cd/bcm-service/wifi-travel{"imei":"370354441402521","msisdn":"243894635839","siteKey":"WF1335"}{"errorCode":601,"errorMessage":"Account not found IMEI:37035444140252 IMSI:null MSIDN:243894635839","errors":[]}

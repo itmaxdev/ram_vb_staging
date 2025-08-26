@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355206112944479",
+"msisdn":"243817774440",
+"primary":false},{
+"imei":"355206112944487",
+"msisdn":"243903731156",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35520611294448  MSISDN : 243903731156  IMSI: 630900142296005","accountResponse":{"imei":"35520611294448","imsi":"630900142296005","msisdn":"243903731156","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"Pouvoir 4","imeiQuantitySupport":2}}

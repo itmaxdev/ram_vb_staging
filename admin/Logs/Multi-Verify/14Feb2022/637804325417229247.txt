@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358721104779565",
+"msisdn":"243903014051",
+"primary":false},{
+"imei":"358721104779573",
+"msisdn":"243897411534",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35872110477957  MSISDN : 243897411534  IMSI: 630860137912054","accountResponse":{"imei":"35872110477957","imsi":"630860137912054","msisdn":"243897411534","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON 12 Air","imeiQuantitySupport":2}}

@@ -1,0 +1,12 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"351363092162707",
+"msisdn":"243852510588",
+"primary":true},{
+"imei":"351363092162715",
+"msisdn":"243999194517",
+"primary":false},{
+"imei":"351363092162723",
+"msisdn":"243811578898",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35136309216270  MSISDN : 243852510588  IMSI: 630860160397725","accountResponse":{"imei":"35136309216270","imsi":"630860160397725","msisdn":"243852510588","operator":"orange","modelType":"2G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"T402","imeiQuantitySupport":3}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355356570867546",
+"msisdn":"243990257014",
+"primary":true},{
+"imei":"355356570867553",
+"msisdn":"243842400349",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35535657086754  MSISDN : 243990257014  IMSI: 630020982541677","accountResponse":{"imei":"35535657086754","imsi":"630020982541677","msisdn":"243990257014","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON 18P","imeiQuantitySupport":3}}

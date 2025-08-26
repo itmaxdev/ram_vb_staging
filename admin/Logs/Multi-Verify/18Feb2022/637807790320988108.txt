@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359051722681616",
+"msisdn":"243815087726",
+"primary":false},{
+"imei":"359051722942240",
+"msisdn":"243854626676",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35905172294224  MSISDN : 243854626676  IMSI: 630860126991090","accountResponse":{"imei":"35905172294224","imsi":"630860126991090","msisdn":"243854626676","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"A58","imeiQuantitySupport":2}}

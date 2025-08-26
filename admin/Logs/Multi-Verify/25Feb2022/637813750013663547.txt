@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"350165826959469",
+"msisdn":"243814933676",
+"primary":true},{
+"imei":"350393176959463",
+"msisdn":"243854103417",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35016582695946  MSISDN : 243814933676  IMSI: 630010440354400","accountResponse":{"imei":"35016582695946","imsi":"630010440354400","msisdn":"243814933676","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A03 Core","imeiQuantitySupport":2}}

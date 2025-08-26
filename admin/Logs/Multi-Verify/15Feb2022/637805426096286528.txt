@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358642080846261",
+"msisdn":"2430853549355",
+"primary":true},{
+"imei":"358642080846261",
+"msisdn":"2430853549355",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35864208084626  MSISDN : 243853549355  IMSI: 630860149899643","accountResponse":{"imei":"35864208084626","imsi":"630860149899643","msisdn":"243853549355","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"Phantom8","imeiQuantitySupport":2}}

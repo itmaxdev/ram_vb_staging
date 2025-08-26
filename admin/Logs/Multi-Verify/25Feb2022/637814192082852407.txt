@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358277078765767",
+"msisdn":"243972530522",
+"primary":true},{
+"imei":"358277078765775",
+"msisdn":"243817676337",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35827707876576  MSISDN : 243972530522  IMSI: 630020756821654","accountResponse":{"imei":"35827707876576","imsi":"630020756821654","msisdn":"243972530522","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Archos","model":"40 Neon","imeiQuantitySupport":0}}

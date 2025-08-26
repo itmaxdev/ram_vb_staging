@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"869370043438826",
+"msisdn":"243812948685",
+"primary":true},{
+"imei":"869370043542627",
+"msisdn":"243852318736",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86937004343882  MSISDN : 243812948685  IMSI: 630010247474833","accountResponse":{"imei":"86937004343882","imsi":"630010247474833","msisdn":"243812948685","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Redmi","model":"Redmi Note 8","imeiQuantitySupport":2}}

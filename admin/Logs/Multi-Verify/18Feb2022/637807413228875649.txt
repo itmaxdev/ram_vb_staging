@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355213791152150",
+"msisdn":"243823724327",
+"primary":false},{
+"imei":"358512131152151",
+"msisdn":"243814447769",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35851213115215  MSISDN : 243814447769  IMSI: 630010411514432","accountResponse":{"imei":"35851213115215","imsi":"630010411514432","msisdn":"243814447769","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A32 5G","imeiQuantitySupport":2}}

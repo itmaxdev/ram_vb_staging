@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353571690179109",
+"msisdn":"243993045954",
+"primary":false},{
+"imei":"353571690179117",
+"msisdn":"243814654246",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35357169017911  MSISDN : 243814654246  IMSI: 630010472921349","accountResponse":{"imei":"35357169017911","imsi":"630010472921349","msisdn":"243814654246","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"NOTE 11","imeiQuantitySupport":2}}

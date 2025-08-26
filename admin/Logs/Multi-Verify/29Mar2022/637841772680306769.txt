@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"357469631680903",
+"msisdn":"2430976152405",
+"primary":true},{
+"imei":"358409561680902",
+"msisdn":"2430817085940",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35746963168090  MSISDN : 243976152405  IMSI: 630020992567518","accountResponse":{"imei":"35746963168090","imsi":"630020992567518","msisdn":"243976152405","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy A21s","imeiQuantitySupport":2}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355526820534795",
+"msisdn":"243903628731",
+"primary":true},{
+"imei":"355526821534794",
+"msisdn":"243898083680",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35552682053479  MSISDN : 243903628731  IMSI: 630900401653271","accountResponse":{"imei":"35552682053479","imsi":"630900401653271","msisdn":"243903628731","operator":"africell","modelType":"2G","counterfeit":false,"roaming":false,"brand":"NOKIA","model":"Nokia 106 DS","imeiQuantitySupport":2}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358078525865469",
+"msisdn":"243976484705",
+"primary":false},{
+"imei":"358078525865477",
+"msisdn":"243842624284",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35807852586547  MSISDN : 243842624284  IMSI: 630860102285835","accountResponse":{"imei":"35807852586547","imsi":"630860102285835","msisdn":"243842624284","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"SMART 5","imeiQuantitySupport":2}}

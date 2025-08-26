@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"865903054917272",
+"msisdn":"243999338557",
+"primary":true},{
+"imei":"865903054917264",
+"msisdn":"243896469737",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86590305491727  MSISDN : 243999338557  IMSI: 630020981916095","accountResponse":{"imei":"86590305491727","imsi":"630020981916095","msisdn":"243999338557","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"realme","model":"RMX3231","imeiQuantitySupport":2}}

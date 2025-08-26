@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359304094084467",
+"msisdn":"243815794485",
+"primary":true},{
+"imei":"359304094084475",
+"msisdn":"243858373770",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35930409408446  MSISDN : 243815794485  IMSI: 630010440038795","accountResponse":{"imei":"35930409408446","imsi":"630010440038795","msisdn":"243815794485","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"CAMON 11 Pro","imeiQuantitySupport":0}}

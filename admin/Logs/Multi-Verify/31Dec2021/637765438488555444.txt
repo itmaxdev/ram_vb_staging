@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353812110883429",
+"msisdn":"2430904640104",
+"primary":true},{
+"imei":"353812110883437",
+"msisdn":"2430852903339",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35381211088342  MSISDN : 243904640104  IMSI: 630900405402561","accountResponse":{"imei":"35381211088342","imsi":"630900405402561","msisdn":"243904640104","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"P36","imeiQuantitySupport":2}}

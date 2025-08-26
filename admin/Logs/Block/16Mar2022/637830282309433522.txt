@@ -1,0 +1,14 @@
+{
+"imei":"35742104249950",
+"msisdn":"",
+"statusId":"3",
+"operator":"orange",
+"user":"erik@euphoria.systems",
+"reason":"Test"}{"errorCode":601,"errorMessage":"Multiple matching records for IMEI:35742104249950 MSISDN:","errors":[]}-Exceptioin:System.InvalidOperationException: Type 'System.String' is not supported for deserialization of an array.
+   at System.Web.Script.Serialization.ObjectConverter.ConvertListToObject(IList list, Type type, JavaScriptSerializer serializer, Boolean throwOnError, IList& convertedList)
+   at System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   at System.Web.Script.Serialization.ObjectConverter.ConvertDictionaryToObject(IDictionary`2 dictionary, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   at System.Web.Script.Serialization.ObjectConverter.ConvertObjectToTypeInternal(Object o, Type type, JavaScriptSerializer serializer, Boolean throwOnError, Object& convertedObject)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize[T](String input)
+   at Ram.cd.Services_Block_Phone.BlockIMEI(String IMEI, String MSISDN, Int32 LangID, String Reason) in D:\repositories\ram\Ram.cd\Services-Block-Phone.aspx.vb:line 192

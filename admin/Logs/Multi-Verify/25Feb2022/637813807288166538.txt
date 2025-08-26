@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358755456383709",
+"msisdn":"243898507704",
+"primary":true},{
+"imei":"359827766383700",
+"msisdn":"243827076733",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35875545638370  MSISDN : 243898507704  IMSI: 630860127502426","accountResponse":{"imei":"35875545638370","imsi":"630860127502426","msisdn":"243898507704","operator":"airtel","modelType":"2G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung SM-B310E","imeiQuantitySupport":2}}

@@ -1,0 +1,15 @@
+https://ap-gateway.mastercard.com/api/rest/version/57/merchant/ARPTC/order/869083037835465/transaction/637807176506323905{
+    "apiOperation": "PAY",
+    "order": {
+        "amount": "3.49",
+        "currency": "USD",
+        "description": "RAM.CD",
+        "reference": 637807176506323905
+    },
+    "transaction": {
+        "reference": 637807176506323905
+    },
+    "sourceOfFunds": { }
+        }
+    }
+}{"error":{"cause":"INVALID_REQUEST","explanation":"Invalid credentials."},"result":"ERROR"}

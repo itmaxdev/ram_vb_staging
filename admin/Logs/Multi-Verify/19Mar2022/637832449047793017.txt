@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355308117122398",
+"msisdn":"2430825498023",
+"primary":true},{
+"imei":"355308117222396",
+"msisdn":"2430819208076",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35530811712239  MSISDN : 243825498023  IMSI: 630010409701571","accountResponse":{"imei":"35530811712239","imsi":"630010409701571","msisdn":"243825498023","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Wiko","model":"Y61","imeiQuantitySupport":2}}

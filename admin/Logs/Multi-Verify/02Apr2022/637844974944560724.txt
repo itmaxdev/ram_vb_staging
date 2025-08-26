@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353370112787874",
+"msisdn":"243902790233",
+"primary":true},{
+"imei":"353370112787882",
+"msisdn":"243817347599",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35337011278787  MSISDN : 243902790233  IMSI: 630900405543885","accountResponse":{"imei":"35337011278787","imsi":"630900405543885","msisdn":"243902790233","operator":"africell","modelType":"2G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"T466","imeiQuantitySupport":3}}

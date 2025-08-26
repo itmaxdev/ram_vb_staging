@@ -1,0 +1,7 @@
+{
+"imei":"353370112787890",
+"msisdn":"",
+"statusId":"3",
+"operator":"vodacom",
+"user":"christian.k@5c-energy-rdc.com",
+"reason":"test"}{"errorCode":601,"errorMessage":"Operator sent 'vodacom' does not match the msisdn’s operator 'orange' ","errors":[]}

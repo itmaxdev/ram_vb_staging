@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"865498042520833",
+"msisdn":"243904215042",
+"primary":true},{
+"imei":"865498042520825",
+"msisdn":"243899309511",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86549804252083  MSISDN : 243904215042  IMSI: 630900406555584","accountResponse":{"imei":"86549804252083","imsi":"630900406555584","msisdn":"243904215042","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"OPPO","model":"CPH1923","imeiQuantitySupport":2}}

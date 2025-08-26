@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355159110770042",
+"msisdn":"243999907895",
+"primary":true},{
+"imei":"355159110770059",
+"msisdn":"2438113065004",
+"primary":false}]}{"errorCode":604,"errorMessage":"msisdn value wrong format","errors":[]}

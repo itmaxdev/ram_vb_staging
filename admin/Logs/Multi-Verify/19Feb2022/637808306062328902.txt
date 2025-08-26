@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"862235041030148",
+"msisdn":"243995991870",
+"primary":false},{
+"imei":"862235041030155",
+"msisdn":"243850660881",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86223504103015  MSISDN : 243850660881  IMSI: 630860127447901","accountResponse":{"imei":"86223504103015","imsi":"630860127447901","msisdn":"243850660881","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Redmi","model":"Redmi 7A","imeiQuantitySupport":2}}

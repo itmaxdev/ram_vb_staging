@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"869643042799897",
+"msisdn":"243815895151",
+"primary":true},{
+"imei":"869643042831906",
+"msisdn":"243843965399",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86964304279989  MSISDN : 243815895151  IMSI: 630010411472883","accountResponse":{"imei":"86964304279989","imsi":"630010411472883","msisdn":"243815895151","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HUAWEI","model":"HUAWEI P30 lite  HUAWEI P30 lite 2020","imeiQuantitySupport":2}}

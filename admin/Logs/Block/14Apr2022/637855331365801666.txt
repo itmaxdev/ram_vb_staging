@@ -1,0 +1,7 @@
+{
+"imei":"354898731561345",
+"msisdn":"",
+"statusId":"3",
+"operator":"other",
+"user":"sephora.n@ram.cd",
+"reason":"Cedrick.EKOFO@orange.com 13 April 2022"}{"errorCode":611,"errorMessage":"I/O error on POST request for \"http://172.30.101.4:8088/devices-status\": Connection refused (Connection refused); nested exception is java.net.ConnectException: Connection refused (Connection refused)","errors":[]}

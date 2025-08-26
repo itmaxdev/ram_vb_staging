@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352597592087323",
+"msisdn":"243855107762",
+"primary":true},{
+"imei":"352597592087331",
+"msisdn":"243900045145",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35259759208732  MSISDN : 243855107762  IMSI: 630860158947510","accountResponse":{"imei":"35259759208732","imsi":"630860158947510","msisdn":"243855107762","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"S17","imeiQuantitySupport":2}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"865849040503926",
+"msisdn":"243824767906",
+"primary":false},{
+"imei":"865849040503934",
+"msisdn":"243846995621",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86584904050393  MSISDN : 243846995621  IMSI: 630860160599909","accountResponse":{"imei":"86584904050393","imsi":"630860160599909","msisdn":"243846995621","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Orange","model":"Sanza","imeiQuantitySupport":2}}

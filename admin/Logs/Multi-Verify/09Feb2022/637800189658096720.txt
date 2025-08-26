@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"866719054655426",
+"msisdn":"2430997024759",
+"primary":true},{
+"imei":"866719054675432",
+"msisdn":"2430897383053",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86671905465542  MSISDN : 243997024759  IMSI: 630020983674366","accountResponse":{"imei":"86671905465542","imsi":"630020983674366","msisdn":"243997024759","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HUAWEI","model":"HUAWEI nova 8i","imeiQuantitySupport":2}}

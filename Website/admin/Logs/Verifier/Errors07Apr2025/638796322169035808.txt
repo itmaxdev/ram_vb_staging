@@ -1,0 +1,2 @@
+https://bcm.ram.cd:8443/bcm-service/devices/details?imei=123456789123456&msisdn=243123456789456-Exceptioin:Something Went Wrong!Here is error-> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ram.cd.Services_Verify_IMEI.VerifyIMEI(String IMEI, String MSISDN, Int32 LangID)

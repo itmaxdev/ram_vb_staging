@@ -1,0 +1,1 @@
+https://bcm.ram.cd/bcm-service/devices/details?imei=352903054843429&msisdn={"timestamp":"2022-05-11T14:13:51.775+0000","status":401,"error":"Unauthorized","message":"Unauthorized","path":"/bcm-service/devices/details"}

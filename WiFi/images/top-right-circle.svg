@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 439" width="440" height="439">
+	<title>Layer 1</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #d4e6fc } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Clip Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m439.41 219.39c0 121.23-98.28 219.51-219.51 219.51c-121.23 0-219.51-98.28-219.51-219.51c0-121.23 98.28-219.51 219.51-219.51c121.23 0 219.51 98.28 219.51 219.51z" />
+		</g>
+	</g>
+</svg>

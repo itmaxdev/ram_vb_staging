@@ -1,0 +1,7 @@
+{
+"imei":"35742104249950",
+"msisdn":"243",
+"statusId":"3",
+"operator":"airtel",
+"user":"kra.airtel@5c-energy-rdc.com",
+"reason":"vol"}{"errorCode":601,"errorMessage":"No record corresponding for the IMEI:35742104249950 and MSISDN:243","errors":[]}

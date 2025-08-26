@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356512110569781",
+"msisdn":"243890374661",
+"primary":false},{
+"imei":"356512110569799",
+"msisdn":"243824057750",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35651211056979  MSISDN : 243824057750  IMSI: 630010403508188","accountResponse":{"imei":"35651211056979","imsi":"630010403508188","msisdn":"243824057750","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"Smart 4","imeiQuantitySupport":2}}

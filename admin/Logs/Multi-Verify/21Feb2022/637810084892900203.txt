@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355237080898306",
+"msisdn":"243894002816",
+"primary":true},{
+"imei":"355237080898306",
+"msisdn":"243900620586",
+"primary":false}]}{"errorCode":614,"errorMessage":"Unhandled Exception","errors":[]}

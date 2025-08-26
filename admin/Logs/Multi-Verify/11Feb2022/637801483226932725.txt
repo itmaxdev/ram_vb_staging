@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"357420090090613",
+"msisdn":"243819999923",
+"primary":true},{
+"imei":"357420090090621",
+"msisdn":"243811419009",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35742009009061  MSISDN : 243819999923  IMSI: 630010443636436","accountResponse":{"imei":"35742009009061","imsi":"630010443636436","msisdn":"243819999923","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"iBRIT","model":"iBRIT Max 7 Phablet","imeiQuantitySupport":0}}

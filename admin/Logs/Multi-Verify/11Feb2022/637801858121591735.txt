@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356732094490644",
+"msisdn":"243818282081",
+"primary":true},{
+"imei":"356732094490651",
+"msisdn":"243895006979",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35673209449064  MSISDN : 243818282081  IMSI: 630010411658065","accountResponse":{"imei":"35673209449064","imsi":"630010411658065","msisdn":"243818282081","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"F1","imeiQuantitySupport":2}}

@@ -1,0 +1,7 @@
+{
+"imei":"355469084424579",
+"operator":"orange",
+"msisdn":"",
+"statusId":"0",
+"user":"erik@euphoria.systems",
+"reason":"raison"}{"timestamp":"2022-03-10T20:12:48.537+0000","status":401,"error":"Unauthorized","message":"Unauthorized","path":"/bcm-service/devices/status"}

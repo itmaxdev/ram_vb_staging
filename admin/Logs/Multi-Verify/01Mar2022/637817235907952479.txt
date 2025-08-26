@@ -1,0 +1,12 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"359819993200674",
+"msisdn":"243815950120",
+"primary":true},{
+"imei":"359819993200682",
+"msisdn":"243997261830",
+"primary":false},{
+"imei":"359819993200690",
+"msisdn":"243853303352",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35981999320067  MSISDN : 243815950120  IMSI: 630010446588968","accountResponse":{"imei":"35981999320067","imsi":"630010446588968","msisdn":"243815950120","operator":"orange","modelType":"2G","counterfeit":false,"roaming":false,"brand":"itel","model":"it5081","imeiQuantitySupport":3}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352816102854497",
+"msisdn":"243903900527",
+"primary":true},{
+"imei":"352817102854495",
+"msisdn":"2430900215505",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35281610285449  MSISDN : 243903900527  IMSI: 630900400081080","accountResponse":{"imei":"35281610285449","imsi":"630900400081080","msisdn":"243903900527","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Galaxy J4+","imeiQuantitySupport":0}}

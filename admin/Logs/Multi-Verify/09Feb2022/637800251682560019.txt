@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358642082711497",
+"msisdn":"2430815337178",
+"primary":true},{
+"imei":"358642082711489",
+"msisdn":"2430896593047",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35864208271149  MSISDN : 243815337178  IMSI: 630010442513927","accountResponse":{"imei":"35864208271149","imsi":"630010442513927","msisdn":"243815337178","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"Phantom8","imeiQuantitySupport":2}}

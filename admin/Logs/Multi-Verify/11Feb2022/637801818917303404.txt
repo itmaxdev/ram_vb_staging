@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"867869056610371",
+"msisdn":"243891003140",
+"primary":false},{
+"imei":"867869056610389",
+"msisdn":"243977846699",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 86786905661038  MSISDN : 243977846699  IMSI: 630020965541404","accountResponse":{"imei":"86786905661038","imsi":"630020965541404","msisdn":"243977846699","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"XIAOMI","model":"M2102K1C","imeiQuantitySupport":2}}

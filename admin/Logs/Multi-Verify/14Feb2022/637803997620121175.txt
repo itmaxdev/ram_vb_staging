@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352999243843866",
+"msisdn":"243824098527",
+"primary":false},{
+"imei":"352999243843874",
+"msisdn":"243894545386",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35299924384387  MSISDN : 243894545386  IMSI: 630860148831222","accountResponse":{"imei":"35299924384387","imsi":"630860148831222","msisdn":"243894545386","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"SMART 5","imeiQuantitySupport":2}}

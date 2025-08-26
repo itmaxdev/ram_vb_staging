@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"866963045440478",
+"msisdn":"243995637111",
+"primary":true},{
+"imei":"866963045472489",
+"msisdn":"243821608745",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86696304544047  MSISDN : 243995637111  IMSI: 630020980291425","accountResponse":{"imei":"86696304544047","imsi":"630020980291425","msisdn":"243995637111","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HUAWEI","model":"HUAWEI Y9 2019","imeiQuantitySupport":0}}

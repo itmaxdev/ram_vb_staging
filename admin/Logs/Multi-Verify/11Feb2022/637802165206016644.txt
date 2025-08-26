@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358930088100017",
+"msisdn":"2430820696953",
+"primary":true},{
+"imei":"358930088100025",
+"msisdn":"2430854157203",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35893008810001  MSISDN : 243820696953  IMSI: 630010472381063","accountResponse":{"imei":"35893008810001","imsi":"630010472381063","msisdn":"243820696953","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"G Vill","model":"S9","imeiQuantitySupport":0}}

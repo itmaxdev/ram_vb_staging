@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353950110777645",
+"msisdn":"2430812156029",
+"primary":false},{
+"imei":"353950110777652",
+"msisdn":"2430819149510",
+"primary":true}]}{"message":"cards are assigned to the Account IMEI : 35395011077765  MSISDN : 243819149510  IMSI: 630010245780553","accountResponse":{"imei":"35395011077765","imsi":"630010245780553","msisdn":"243819149510","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"S5 Pro","imeiQuantitySupport":2}}

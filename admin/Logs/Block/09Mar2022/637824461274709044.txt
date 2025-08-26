@@ -1,0 +1,6 @@
+{
+"imei":"355469084424579",
+"statusId":"3",
+"operator":"vodacom",
+"user":"erik@euphoria.systems",
+"reason":"adaskdkfj h;ljsdfh ;lkhsdf ;laskdfh asdf;ljkhasd f;lasjdfh ;sadlfjh sadf;ljh"}{"errorCode":601,"errorMessage":"Operator sent 'vodacom' does not match the msisdn’s operator 'orange' ","errors":[]}

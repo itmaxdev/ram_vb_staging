@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--====== Required meta tags ======-->
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="description" content="" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <!--====== Title ======-->
+  <title>Wifi Login</title>
+
+  <!--====== Favicon Icon ======-->
+  <link rel="shortcut icon" href="../assets/images/favicon.svg" type="image/svg" />
+
+  <!--====== Bootstrap css ======-->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  
+
+  <!-- Start header Area -->
+  <section id="hero-area" class="header-eight">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 col-md-12 col-12 logo">
+          <img height="70px" src="assets/images/logo.png" style="margin-bottom: 0px;">
+          <div class="bordering text-center">
+            <div class="row">
+              <div class="col-lg-12 col-md-12 col-sm-12 images ">
+                <div class="col-lg-3 a"><img class="sponsor" src="assets/images/sponsor/logo1.png" alt="logo 1"></div>
+                <div class="col-lg-3 a"><img class="sponsor" src="assets/images/sponsor/logo2.png" alt="logo 2"></div>
+                <div class="col-lg-3 a"><img class="sponsor b" src="assets/images/sponsor/logo3.png" alt="logo 3"></div>
+              </div>
+            </div>
+          </div>
+          <div class="header-content first">
+            <div class="col-lg-12 col-md-12 col-12">
+              <img  src="assets/images/image_link2.jpg" class="ads" style="margin-bottom: 0px;">
+            </div>
+          </div>
+          <div>
+            <p class="user" style="color:#fccc04">Vous serez connecté dans <strong><span id="count">10</span></strong> seconde(s).</p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-12">
+          <div class="header-image">
+            <video width="100%" controls autoplay muted playsinline class="myvideo"> 
+                <source src="assets/video/video1.mp4" type="video/mp4">
+            </video>
+          </div>
+        </div>
+        <div class="header-content second">
+          <div class="col-lg-12 col-md-12 col-12">
+            <img  src="assets/images/image_link2.jpg" class="ads" style="margin-bottom: 0px;">
+          </div>
+        </div>
+        <!-- <div>
+          <p class="user" style="color:#fccc04">Vous serez connecté dans <strong><span id="count">10</span></strong> seconde(s).</p>
+        </div> -->
+        <div class="col-lg-6 col-md-6 col-12 explain">
+          <div class="header-content">
+            <div class="armoirie">
+              <img height="100px" src="assets/images/Logo_Ministere_PTNTIC_White.png">
+              <img height="100px" src="assets/images/logo_ARPTC_White.png">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+ 
+  
+</body>
+<script type="text/javascript">
+var spn = document.getElementById("count");
+/*delete this line*/
+//var btn = document.getElementById("btnCounter");
+/*------------------------------------------------*/
+
+
+var count = 10;     // Set count
+var timer = null;  // For referencing the timer
+
+(function countDown(){
+  // Display counter and start counting down
+  spn.textContent = count;
+  
+  // Run the function again every second if the count is not zero
+  if(count !== 0){
+    timer = setTimeout(countDown, 1000);
+    count--; // decrease the timer
+  } else {
+    // If the timer equals to zero, put your script of redirection here. 
+  }
+}());
+</script>
+
+</html>

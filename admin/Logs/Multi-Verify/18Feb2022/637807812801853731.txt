@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356511111548786",
+"msisdn":"2430999037745",
+"primary":true},{
+"imei":"356511111548794",
+"msisdn":"2430898205896",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35651111154878  MSISDN : 243999037745  IMSI: 630020753616201","accountResponse":{"imei":"35651111154878","imsi":"630020753616201","msisdn":"243999037745","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Infinix","model":"HOT 9","imeiQuantitySupport":2}}

@@ -1,0 +1,5 @@
+{
+"imei":"35292699213823",
+"msisdn":"243999240248",
+"statusId":"3",
+"operator":"airtel"}{"devices":[{"imei":"35292699213823","imsi":"630020992284623"}],"statusId":"3"}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"867105052463378",
+"msisdn":"243813128389",
+"primary":true},{
+"imei":"867105052463386",
+"msisdn":"243828503010",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86710505246337  MSISDN : 243813128389  IMSI: 630010443633249","accountResponse":{"imei":"86710505246337","imsi":"630010443633249","msisdn":"243813128389","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"MI","model":"Mi 10T Pro","imeiQuantitySupport":2}}

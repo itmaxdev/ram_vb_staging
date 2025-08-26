@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"357529104794331",
+"msisdn":"243828600000",
+"primary":true},{
+"imei":"357532104794335",
+"msisdn":"243840950000",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35752910479433  MSISDN : 243828600000  IMSI: 630010415358593","accountResponse":{"imei":"35752910479433","imsi":"630010415358593","msisdn":"243828600000","operator":"vodacom","modelType":"2G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung GT-E1207Y","imeiQuantitySupport":2}}

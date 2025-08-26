@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"866903046314769",
+"msisdn":"243970275476",
+"primary":true},{
+"imei":"866903046314769",
+"msisdn":"243970275476",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86690304631476  MSISDN : 243970275476  IMSI: 630020983298308","accountResponse":{"imei":"86690304631476","imsi":"630020983298308","msisdn":"243970275476","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"HUAWEI","model":"HUAWEI Y5 lite","imeiQuantitySupport":0}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353668112374761",
+"msisdn":"243907046474",
+"primary":true},{
+"imei":"353668112374779",
+"msisdn":"243893619214",
+"primary":false}]}{"errorCode":601,"errorMessage":"PROCESS MULTI CARD - local account IMEI:35366811237477 Msisdn:243893619214 is not found in BCM","errors":[]}

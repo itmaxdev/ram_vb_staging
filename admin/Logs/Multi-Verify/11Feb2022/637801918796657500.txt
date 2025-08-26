@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355668119002561",
+"msisdn":"243822167485",
+"primary":true},{
+"imei":"355668119002579",
+"msisdn":"243978995789",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35566811900256  MSISDN : 243822167485  IMSI: 630010410676723","accountResponse":{"imei":"35566811900256","imsi":"630010410676723","msisdn":"243822167485","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"F1","imeiQuantitySupport":2}}

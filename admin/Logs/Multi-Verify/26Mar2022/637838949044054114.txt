@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352740533284555",
+"msisdn":"243898646647",
+"primary":true},{
+"imei":"352740533254517",
+"msisdn":"243973897401",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35274053328455  MSISDN : 243898646647  IMSI: 630860127205135","accountResponse":{"imei":"35274053328455","imsi":"630860127205135","msisdn":"243898646647","operator":"orange","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Apple","model":"Apple iPhone 12 Pro Max (A2412)","imeiQuantitySupport":2}}

@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"356964753097077",
+"msisdn":"2430906894439",
+"primary":true},{
+"imei":"356964753097069",
+"msisdn":"2430975964213",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35696475309707  MSISDN : 243906894439  IMSI: 630900501794211","accountResponse":{"imei":"35696475309707","imsi":"630900501794211","msisdn":"243906894439","operator":"orange","modelType":"2G","counterfeit":false,"roaming":false,"brand":"itel","model":"it2160","imeiQuantitySupport":2}}

@@ -1,0 +1,12 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355855336488919",
+"msisdn":"243990836977",
+"primary":true},{
+"imei":"355855336488927",
+"msisdn":"243815053637",
+"primary":false},{
+"imei":"355855336488935",
+"msisdn":"243853964084",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35585533648891  MSISDN : 243990836977  IMSI: 630020983745065","accountResponse":{"imei":"35585533648891","imsi":"630020983745065","msisdn":"243990836977","operator":"airtel","modelType":"2G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"T467","imeiQuantitySupport":3}}

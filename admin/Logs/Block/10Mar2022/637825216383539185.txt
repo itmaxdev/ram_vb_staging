@@ -1,0 +1,6 @@
+{
+"imei":"35063123026831",
+"statusId":"3",
+"operator":"africell",
+"user":"lara.khoury@itmaxglobal.com",
+"reason":"reason is for testing"}{"errorCode":601,"errorMessage":"Operator sent 'africell' does not match the msisdn’s operator 'airtel' ","errors":[]}

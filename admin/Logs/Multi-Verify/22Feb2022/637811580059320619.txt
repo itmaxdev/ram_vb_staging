@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"352008097092206",
+"msisdn":"243816257551",
+"primary":true},{
+"imei":"352009097092204",
+"msisdn":"243900603645",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35200809709220  MSISDN : 243816257551  IMSI: 630010440096845","accountResponse":{"imei":"35200809709220","imsi":"630010440096845","msisdn":"243816257551","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung Galaxy Note 8","imeiQuantitySupport":0}}

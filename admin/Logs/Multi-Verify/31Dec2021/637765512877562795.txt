@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358520088718635",
+"msisdn":"243858825477",
+"primary":true},{
+"imei":"358521088718633",
+"msisdn":"243975515829",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35852008871863  MSISDN : 243858825477  IMSI: 630860154983630","accountResponse":{"imei":"35852008871863","imsi":"630860154983630","msisdn":"243858825477","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung SM-N9500","imeiQuantitySupport":0}}

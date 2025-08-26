@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"353292088338625",
+"msisdn":"243813689452",
+"primary":true},{
+"imei":"353293088338623",
+"msisdn":"243850565518",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35329208833862  MSISDN : 243813689452  IMSI: 630010444133041","accountResponse":{"imei":"35329208833862","imsi":"630010444133041","msisdn":"243813689452","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Samsung","model":"Samsung SM-J500H/DS","imeiQuantitySupport":0}}

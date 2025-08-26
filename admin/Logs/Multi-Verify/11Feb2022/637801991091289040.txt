@@ -1,0 +1,15 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"358785034298467",
+"msisdn":"243852839839",
+"primary":true},{
+"imei":"358785034298475",
+"msisdn":"243992417839",
+"primary":false},{
+"imei":"352478259782193",
+"msisdn":"243812423439",
+"primary":false},{
+"imei":"352478259782219",
+"msisdn":"243810075587",
+"primary":false}]}{"errorCode":606,"errorMessage":"[tac:35247825 serial:978219] doesn't match [tac:35878503,serial:429847]","errors":[]}

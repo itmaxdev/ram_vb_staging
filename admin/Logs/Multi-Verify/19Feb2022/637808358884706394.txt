@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"350725040310898",
+"msisdn":"243906876742",
+"primary":true},{
+"imei":"350725040310904",
+"msisdn":"243995191503",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35072504031089  MSISDN : 243906876742  IMSI: 630900410710242","accountResponse":{"imei":"35072504031089","imsi":"630900410710242","msisdn":"243906876742","operator":"vodacom","modelType":"4G","counterfeit":false,"roaming":false,"brand":"TECNO","model":"TECNO SPARK 7P","imeiQuantitySupport":3}}

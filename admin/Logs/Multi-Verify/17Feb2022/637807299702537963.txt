@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"355920695179481",
+"msisdn":"243822877080",
+"primary":true},{
+"imei":"355920695179499",
+"msisdn":"243991287089",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 35592069517948  MSISDN : 243822877080  IMSI: 630010505210609","accountResponse":{"imei":"35592069517948","imsi":"630010505210609","msisdn":"243822877080","operator":"africell","modelType":"4G","counterfeit":false,"roaming":false,"brand":"itel","model":"S16","imeiQuantitySupport":2}}

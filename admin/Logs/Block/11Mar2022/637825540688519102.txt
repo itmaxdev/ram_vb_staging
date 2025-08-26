@@ -1,0 +1,6 @@
+{
+"imei":"35063123026831",
+"statusId":"3",
+"operator":"orange",
+"user":"erik@euphoria.systems",
+"reason":"raison"}{"errorCode":601,"errorMessage":"Operator sent 'orange' does not match the msisdn’s operator 'airtel' ","errors":[]}

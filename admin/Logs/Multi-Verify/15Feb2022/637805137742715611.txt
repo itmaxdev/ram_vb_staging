@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"357466102249689",
+"msisdn":"243812719161",
+"primary":true},{
+"imei":"357466102249705",
+"msisdn":"243996875002",
+"primary":false}]}{"errorCode":605,"errorMessage":"Account IMEI:35746610224968 MSisdn:243812719161 supports 1 slot(s) but request has 2","errors":[]}

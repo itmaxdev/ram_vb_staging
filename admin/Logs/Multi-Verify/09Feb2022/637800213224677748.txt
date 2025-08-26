@@ -1,0 +1,9 @@
+https://bcm.ram.cd/bcm-service/accounts/multiple-cards/{
+"cards":[
+{
+"imei":"866333054247562",
+"msisdn":"243999964914",
+"primary":true},{
+"imei":"866333054247570",
+"msisdn":"243810669414",
+"primary":false}]}{"message":"cards are assigned to the Account IMEI : 86633305424756  MSISDN : 243999964914  IMSI: 630020757034090","accountResponse":{"imei":"86633305424756","imsi":"630020757034090","msisdn":"243999964914","operator":"airtel","modelType":"4G","counterfeit":false,"roaming":false,"brand":"Redmi","model":"Redmi Note 9S","imeiQuantitySupport":2}}
